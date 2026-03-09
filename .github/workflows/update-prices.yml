@@ -1,0 +1,52 @@
+name: Update Gas Prices
+
+on:
+  schedule:
+    # Monday 10:00 AM ET (14:00 UTC)
+    - cron: '0 14 * * 1'
+  workflow_dispatch:  # Manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Scrape AAA prices
+        run: python scripts/fetch-aaa.py
+
+      - name: Validate data
+        run: |
+          python -c "
+          import json, sys
+          from pathlib import Path
+          states_dir = Path('data/states')
+          count = len(list(states_dir.glob('*.json')))
+          if count < 50:
+              print(f'ERROR: Only {count} state files found')
+              sys.exit(1)
+          # Check metadata was updated
+          meta = json.loads(Path('data/metadata.json').read_text())
+          print(f'Last updated: {meta[\"last_updated\"]}')
+          print(f'State files: {count}')
+          print('Validation passed')
+          "
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update gas prices $(date -u +%Y-%m-%d)"
+            git push
+          fi

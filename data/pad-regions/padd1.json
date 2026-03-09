@@ -1,0 +1,6835 @@
+{
+  "name": "East Coast (PADD 1)",
+  "data": [
+    {
+      "date": "2000-01-03",
+      "price": 1.314,
+      "source": "eia"
+    },
+    {
+      "date": "2000-01-10",
+      "price": 1.315,
+      "source": "eia"
+    },
+    {
+      "date": "2000-01-17",
+      "price": 1.316,
+      "source": "eia"
+    },
+    {
+      "date": "2000-01-24",
+      "price": 1.342,
+      "source": "eia"
+    },
+    {
+      "date": "2000-01-31",
+      "price": 1.348,
+      "source": "eia"
+    },
+    {
+      "date": "2000-02-07",
+      "price": 1.359,
+      "source": "eia"
+    },
+    {
+      "date": "2000-02-14",
+      "price": 1.382,
+      "source": "eia"
+    },
+    {
+      "date": "2000-02-21",
+      "price": 1.417,
+      "source": "eia"
+    },
+    {
+      "date": "2000-02-28",
+      "price": 1.432,
+      "source": "eia"
+    },
+    {
+      "date": "2000-03-06",
+      "price": 1.512,
+      "source": "eia"
+    },
+    {
+      "date": "2000-03-13",
+      "price": 1.556,
+      "source": "eia"
+    },
+    {
+      "date": "2000-03-20",
+      "price": 1.559,
+      "source": "eia"
+    },
+    {
+      "date": "2000-03-27",
+      "price": 1.544,
+      "source": "eia"
+    },
+    {
+      "date": "2000-04-03",
+      "price": 1.531,
+      "source": "eia"
+    },
+    {
+      "date": "2000-04-10",
+      "price": 1.511,
+      "source": "eia"
+    },
+    {
+      "date": "2000-04-17",
+      "price": 1.486,
+      "source": "eia"
+    },
+    {
+      "date": "2000-04-24",
+      "price": 1.466,
+      "source": "eia"
+    },
+    {
+      "date": "2000-05-01",
+      "price": 1.454,
+      "source": "eia"
+    },
+    {
+      "date": "2000-05-08",
+      "price": 1.473,
+      "source": "eia"
+    },
+    {
+      "date": "2000-05-15",
+      "price": 1.502,
+      "source": "eia"
+    },
+    {
+      "date": "2000-05-22",
+      "price": 1.539,
+      "source": "eia"
+    },
+    {
+      "date": "2000-05-29",
+      "price": 1.544,
+      "source": "eia"
+    },
+    {
+      "date": "2000-06-05",
+      "price": 1.55,
+      "source": "eia"
+    },
+    {
+      "date": "2000-06-12",
+      "price": 1.581,
+      "source": "eia"
+    },
+    {
+      "date": "2000-06-19",
+      "price": 1.621,
+      "source": "eia"
+    },
+    {
+      "date": "2000-06-26",
+      "price": 1.629,
+      "source": "eia"
+    },
+    {
+      "date": "2000-07-03",
+      "price": 1.632,
+      "source": "eia"
+    },
+    {
+      "date": "2000-07-10",
+      "price": 1.625,
+      "source": "eia"
+    },
+    {
+      "date": "2000-07-17",
+      "price": 1.609,
+      "source": "eia"
+    },
+    {
+      "date": "2000-07-24",
+      "price": 1.593,
+      "source": "eia"
+    },
+    {
+      "date": "2000-07-31",
+      "price": 1.56,
+      "source": "eia"
+    },
+    {
+      "date": "2000-08-07",
+      "price": 1.539,
+      "source": "eia"
+    },
+    {
+      "date": "2000-08-14",
+      "price": 1.522,
+      "source": "eia"
+    },
+    {
+      "date": "2000-08-21",
+      "price": 1.521,
+      "source": "eia"
+    },
+    {
+      "date": "2000-08-28",
+      "price": 1.523,
+      "source": "eia"
+    },
+    {
+      "date": "2000-09-04",
+      "price": 1.535,
+      "source": "eia"
+    },
+    {
+      "date": "2000-09-11",
+      "price": 1.562,
+      "source": "eia"
+    },
+    {
+      "date": "2000-09-18",
+      "price": 1.566,
+      "source": "eia"
+    },
+    {
+      "date": "2000-09-25",
+      "price": 1.564,
+      "source": "eia"
+    },
+    {
+      "date": "2000-10-02",
+      "price": 1.551,
+      "source": "eia"
+    },
+    {
+      "date": "2000-10-09",
+      "price": 1.532,
+      "source": "eia"
+    },
+    {
+      "date": "2000-10-16",
+      "price": 1.545,
+      "source": "eia"
+    },
+    {
+      "date": "2000-10-23",
+      "price": 1.544,
+      "source": "eia"
+    },
+    {
+      "date": "2000-10-30",
+      "price": 1.544,
+      "source": "eia"
+    },
+    {
+      "date": "2000-11-06",
+      "price": 1.537,
+      "source": "eia"
+    },
+    {
+      "date": "2000-11-13",
+      "price": 1.534,
+      "source": "eia"
+    },
+    {
+      "date": "2000-11-20",
+      "price": 1.527,
+      "source": "eia"
+    },
+    {
+      "date": "2000-11-27",
+      "price": 1.526,
+      "source": "eia"
+    },
+    {
+      "date": "2000-12-04",
+      "price": 1.513,
+      "source": "eia"
+    },
+    {
+      "date": "2000-12-11",
+      "price": 1.492,
+      "source": "eia"
+    },
+    {
+      "date": "2000-12-18",
+      "price": 1.469,
+      "source": "eia"
+    },
+    {
+      "date": "2000-12-25",
+      "price": 1.442,
+      "source": "eia"
+    },
+    {
+      "date": "2001-01-01",
+      "price": 1.438,
+      "source": "eia"
+    },
+    {
+      "date": "2001-01-08",
+      "price": 1.44,
+      "source": "eia"
+    },
+    {
+      "date": "2001-01-15",
+      "price": 1.486,
+      "source": "eia"
+    },
+    {
+      "date": "2001-01-22",
+      "price": 1.497,
+      "source": "eia"
+    },
+    {
+      "date": "2001-01-29",
+      "price": 1.493,
+      "source": "eia"
+    },
+    {
+      "date": "2001-02-05",
+      "price": 1.48,
+      "source": "eia"
+    },
+    {
+      "date": "2001-02-12",
+      "price": 1.492,
+      "source": "eia"
+    },
+    {
+      "date": "2001-02-19",
+      "price": 1.482,
+      "source": "eia"
+    },
+    {
+      "date": "2001-02-26",
+      "price": 1.472,
+      "source": "eia"
+    },
+    {
+      "date": "2001-03-05",
+      "price": 1.455,
+      "source": "eia"
+    },
+    {
+      "date": "2001-03-12",
+      "price": 1.438,
+      "source": "eia"
+    },
+    {
+      "date": "2001-03-19",
+      "price": 1.424,
+      "source": "eia"
+    },
+    {
+      "date": "2001-03-26",
+      "price": 1.421,
+      "source": "eia"
+    },
+    {
+      "date": "2001-04-02",
+      "price": 1.435,
+      "source": "eia"
+    },
+    {
+      "date": "2001-04-09",
+      "price": 1.495,
+      "source": "eia"
+    },
+    {
+      "date": "2001-04-16",
+      "price": 1.571,
+      "source": "eia"
+    },
+    {
+      "date": "2001-04-23",
+      "price": 1.609,
+      "source": "eia"
+    },
+    {
+      "date": "2001-04-30",
+      "price": 1.623,
+      "source": "eia"
+    },
+    {
+      "date": "2001-05-07",
+      "price": 1.659,
+      "source": "eia"
+    },
+    {
+      "date": "2001-05-14",
+      "price": 1.67,
+      "source": "eia"
+    },
+    {
+      "date": "2001-05-21",
+      "price": 1.663,
+      "source": "eia"
+    },
+    {
+      "date": "2001-05-28",
+      "price": 1.671,
+      "source": "eia"
+    },
+    {
+      "date": "2001-06-04",
+      "price": 1.658,
+      "source": "eia"
+    },
+    {
+      "date": "2001-06-11",
+      "price": 1.655,
+      "source": "eia"
+    },
+    {
+      "date": "2001-06-18",
+      "price": 1.629,
+      "source": "eia"
+    },
+    {
+      "date": "2001-06-25",
+      "price": 1.596,
+      "source": "eia"
+    },
+    {
+      "date": "2001-07-02",
+      "price": 1.546,
+      "source": "eia"
+    },
+    {
+      "date": "2001-07-09",
+      "price": 1.511,
+      "source": "eia"
+    },
+    {
+      "date": "2001-07-16",
+      "price": 1.475,
+      "source": "eia"
+    },
+    {
+      "date": "2001-07-23",
+      "price": 1.447,
+      "source": "eia"
+    },
+    {
+      "date": "2001-07-30",
+      "price": 1.424,
+      "source": "eia"
+    },
+    {
+      "date": "2001-08-06",
+      "price": 1.413,
+      "source": "eia"
+    },
+    {
+      "date": "2001-08-13",
+      "price": 1.42,
+      "source": "eia"
+    },
+    {
+      "date": "2001-08-20",
+      "price": 1.43,
+      "source": "eia"
+    },
+    {
+      "date": "2001-08-27",
+      "price": 1.429,
+      "source": "eia"
+    },
+    {
+      "date": "2001-09-03",
+      "price": 1.457,
+      "source": "eia"
+    },
+    {
+      "date": "2001-09-10",
+      "price": 1.455,
+      "source": "eia"
+    },
+    {
+      "date": "2001-09-17",
+      "price": 1.465,
+      "source": "eia"
+    },
+    {
+      "date": "2001-09-24",
+      "price": 1.449,
+      "source": "eia"
+    },
+    {
+      "date": "2001-10-01",
+      "price": 1.407,
+      "source": "eia"
+    },
+    {
+      "date": "2001-10-08",
+      "price": 1.362,
+      "source": "eia"
+    },
+    {
+      "date": "2001-10-15",
+      "price": 1.325,
+      "source": "eia"
+    },
+    {
+      "date": "2001-10-22",
+      "price": 1.287,
+      "source": "eia"
+    },
+    {
+      "date": "2001-10-29",
+      "price": 1.255,
+      "source": "eia"
+    },
+    {
+      "date": "2001-11-05",
+      "price": 1.224,
+      "source": "eia"
+    },
+    {
+      "date": "2001-11-12",
+      "price": 1.198,
+      "source": "eia"
+    },
+    {
+      "date": "2001-11-19",
+      "price": 1.173,
+      "source": "eia"
+    },
+    {
+      "date": "2001-11-26",
+      "price": 1.144,
+      "source": "eia"
+    },
+    {
+      "date": "2001-12-03",
+      "price": 1.122,
+      "source": "eia"
+    },
+    {
+      "date": "2001-12-10",
+      "price": 1.113,
+      "source": "eia"
+    },
+    {
+      "date": "2001-12-17",
+      "price": 1.1,
+      "source": "eia"
+    },
+    {
+      "date": "2001-12-24",
+      "price": 1.104,
+      "source": "eia"
+    },
+    {
+      "date": "2001-12-31",
+      "price": 1.12,
+      "source": "eia"
+    },
+    {
+      "date": "2002-01-07",
+      "price": 1.14,
+      "source": "eia"
+    },
+    {
+      "date": "2002-01-14",
+      "price": 1.158,
+      "source": "eia"
+    },
+    {
+      "date": "2002-01-21",
+      "price": 1.146,
+      "source": "eia"
+    },
+    {
+      "date": "2002-01-28",
+      "price": 1.14,
+      "source": "eia"
+    },
+    {
+      "date": "2002-02-04",
+      "price": 1.139,
+      "source": "eia"
+    },
+    {
+      "date": "2002-02-11",
+      "price": 1.143,
+      "source": "eia"
+    },
+    {
+      "date": "2002-02-18",
+      "price": 1.144,
+      "source": "eia"
+    },
+    {
+      "date": "2002-02-25",
+      "price": 1.145,
+      "source": "eia"
+    },
+    {
+      "date": "2002-03-04",
+      "price": 1.151,
+      "source": "eia"
+    },
+    {
+      "date": "2002-03-11",
+      "price": 1.215,
+      "source": "eia"
+    },
+    {
+      "date": "2002-03-18",
+      "price": 1.288,
+      "source": "eia"
+    },
+    {
+      "date": "2002-03-25",
+      "price": 1.346,
+      "source": "eia"
+    },
+    {
+      "date": "2002-04-01",
+      "price": 1.381,
+      "source": "eia"
+    },
+    {
+      "date": "2002-04-08",
+      "price": 1.422,
+      "source": "eia"
+    },
+    {
+      "date": "2002-04-15",
+      "price": 1.433,
+      "source": "eia"
+    },
+    {
+      "date": "2002-04-22",
+      "price": 1.434,
+      "source": "eia"
+    },
+    {
+      "date": "2002-04-29",
+      "price": 1.429,
+      "source": "eia"
+    },
+    {
+      "date": "2002-05-06",
+      "price": 1.429,
+      "source": "eia"
+    },
+    {
+      "date": "2002-05-13",
+      "price": 1.422,
+      "source": "eia"
+    },
+    {
+      "date": "2002-05-20",
+      "price": 1.418,
+      "source": "eia"
+    },
+    {
+      "date": "2002-05-27",
+      "price": 1.414,
+      "source": "eia"
+    },
+    {
+      "date": "2002-06-03",
+      "price": 1.408,
+      "source": "eia"
+    },
+    {
+      "date": "2002-06-10",
+      "price": 1.402,
+      "source": "eia"
+    },
+    {
+      "date": "2002-06-17",
+      "price": 1.392,
+      "source": "eia"
+    },
+    {
+      "date": "2002-06-24",
+      "price": 1.394,
+      "source": "eia"
+    },
+    {
+      "date": "2002-07-01",
+      "price": 1.391,
+      "source": "eia"
+    },
+    {
+      "date": "2002-07-08",
+      "price": 1.39,
+      "source": "eia"
+    },
+    {
+      "date": "2002-07-15",
+      "price": 1.392,
+      "source": "eia"
+    },
+    {
+      "date": "2002-07-22",
+      "price": 1.42,
+      "source": "eia"
+    },
+    {
+      "date": "2002-07-29",
+      "price": 1.42,
+      "source": "eia"
+    },
+    {
+      "date": "2002-08-05",
+      "price": 1.423,
+      "source": "eia"
+    },
+    {
+      "date": "2002-08-12",
+      "price": 1.422,
+      "source": "eia"
+    },
+    {
+      "date": "2002-08-19",
+      "price": 1.417,
+      "source": "eia"
+    },
+    {
+      "date": "2002-08-26",
+      "price": 1.42,
+      "source": "eia"
+    },
+    {
+      "date": "2002-09-02",
+      "price": 1.419,
+      "source": "eia"
+    },
+    {
+      "date": "2002-09-09",
+      "price": 1.417,
+      "source": "eia"
+    },
+    {
+      "date": "2002-09-16",
+      "price": 1.422,
+      "source": "eia"
+    },
+    {
+      "date": "2002-09-23",
+      "price": 1.426,
+      "source": "eia"
+    },
+    {
+      "date": "2002-09-30",
+      "price": 1.445,
+      "source": "eia"
+    },
+    {
+      "date": "2002-10-07",
+      "price": 1.464,
+      "source": "eia"
+    },
+    {
+      "date": "2002-10-14",
+      "price": 1.463,
+      "source": "eia"
+    },
+    {
+      "date": "2002-10-21",
+      "price": 1.481,
+      "source": "eia"
+    },
+    {
+      "date": "2002-10-28",
+      "price": 1.478,
+      "source": "eia"
+    },
+    {
+      "date": "2002-11-04",
+      "price": 1.475,
+      "source": "eia"
+    },
+    {
+      "date": "2002-11-11",
+      "price": 1.477,
+      "source": "eia"
+    },
+    {
+      "date": "2002-11-18",
+      "price": 1.461,
+      "source": "eia"
+    },
+    {
+      "date": "2002-11-25",
+      "price": 1.446,
+      "source": "eia"
+    },
+    {
+      "date": "2002-12-02",
+      "price": 1.438,
+      "source": "eia"
+    },
+    {
+      "date": "2002-12-09",
+      "price": 1.428,
+      "source": "eia"
+    },
+    {
+      "date": "2002-12-16",
+      "price": 1.424,
+      "source": "eia"
+    },
+    {
+      "date": "2002-12-23",
+      "price": 1.458,
+      "source": "eia"
+    },
+    {
+      "date": "2002-12-30",
+      "price": 1.496,
+      "source": "eia"
+    },
+    {
+      "date": "2003-01-06",
+      "price": 1.509,
+      "source": "eia"
+    },
+    {
+      "date": "2003-01-13",
+      "price": 1.509,
+      "source": "eia"
+    },
+    {
+      "date": "2003-01-20",
+      "price": 1.51,
+      "source": "eia"
+    },
+    {
+      "date": "2003-01-27",
+      "price": 1.514,
+      "source": "eia"
+    },
+    {
+      "date": "2003-02-03",
+      "price": 1.564,
+      "source": "eia"
+    },
+    {
+      "date": "2003-02-10",
+      "price": 1.645,
+      "source": "eia"
+    },
+    {
+      "date": "2003-02-17",
+      "price": 1.678,
+      "source": "eia"
+    },
+    {
+      "date": "2003-02-24",
+      "price": 1.675,
+      "source": "eia"
+    },
+    {
+      "date": "2003-03-03",
+      "price": 1.677,
+      "source": "eia"
+    },
+    {
+      "date": "2003-03-10",
+      "price": 1.691,
+      "source": "eia"
+    },
+    {
+      "date": "2003-03-17",
+      "price": 1.709,
+      "source": "eia"
+    },
+    {
+      "date": "2003-03-24",
+      "price": 1.687,
+      "source": "eia"
+    },
+    {
+      "date": "2003-03-31",
+      "price": 1.658,
+      "source": "eia"
+    },
+    {
+      "date": "2003-04-07",
+      "price": 1.635,
+      "source": "eia"
+    },
+    {
+      "date": "2003-04-14",
+      "price": 1.61,
+      "source": "eia"
+    },
+    {
+      "date": "2003-04-21",
+      "price": 1.585,
+      "source": "eia"
+    },
+    {
+      "date": "2003-04-28",
+      "price": 1.567,
+      "source": "eia"
+    },
+    {
+      "date": "2003-05-05",
+      "price": 1.539,
+      "source": "eia"
+    },
+    {
+      "date": "2003-05-12",
+      "price": 1.509,
+      "source": "eia"
+    },
+    {
+      "date": "2003-05-19",
+      "price": 1.5,
+      "source": "eia"
+    },
+    {
+      "date": "2003-05-26",
+      "price": 1.492,
+      "source": "eia"
+    },
+    {
+      "date": "2003-06-02",
+      "price": 1.487,
+      "source": "eia"
+    },
+    {
+      "date": "2003-06-09",
+      "price": 1.492,
+      "source": "eia"
+    },
+    {
+      "date": "2003-06-16",
+      "price": 1.514,
+      "source": "eia"
+    },
+    {
+      "date": "2003-06-23",
+      "price": 1.505,
+      "source": "eia"
+    },
+    {
+      "date": "2003-06-30",
+      "price": 1.495,
+      "source": "eia"
+    },
+    {
+      "date": "2003-07-07",
+      "price": 1.498,
+      "source": "eia"
+    },
+    {
+      "date": "2003-07-14",
+      "price": 1.542,
+      "source": "eia"
+    },
+    {
+      "date": "2003-07-21",
+      "price": 1.552,
+      "source": "eia"
+    },
+    {
+      "date": "2003-07-28",
+      "price": 1.549,
+      "source": "eia"
+    },
+    {
+      "date": "2003-08-04",
+      "price": 1.552,
+      "source": "eia"
+    },
+    {
+      "date": "2003-08-11",
+      "price": 1.587,
+      "source": "eia"
+    },
+    {
+      "date": "2003-08-18",
+      "price": 1.625,
+      "source": "eia"
+    },
+    {
+      "date": "2003-08-25",
+      "price": 1.738,
+      "source": "eia"
+    },
+    {
+      "date": "2003-09-01",
+      "price": 1.759,
+      "source": "eia"
+    },
+    {
+      "date": "2003-09-08",
+      "price": 1.739,
+      "source": "eia"
+    },
+    {
+      "date": "2003-09-15",
+      "price": 1.715,
+      "source": "eia"
+    },
+    {
+      "date": "2003-09-22",
+      "price": 1.685,
+      "source": "eia"
+    },
+    {
+      "date": "2003-09-29",
+      "price": 1.657,
+      "source": "eia"
+    },
+    {
+      "date": "2003-10-06",
+      "price": 1.635,
+      "source": "eia"
+    },
+    {
+      "date": "2003-10-13",
+      "price": 1.621,
+      "source": "eia"
+    },
+    {
+      "date": "2003-10-20",
+      "price": 1.614,
+      "source": "eia"
+    },
+    {
+      "date": "2003-10-27",
+      "price": 1.595,
+      "source": "eia"
+    },
+    {
+      "date": "2003-11-03",
+      "price": 1.581,
+      "source": "eia"
+    },
+    {
+      "date": "2003-11-10",
+      "price": 1.56,
+      "source": "eia"
+    },
+    {
+      "date": "2003-11-17",
+      "price": 1.552,
+      "source": "eia"
+    },
+    {
+      "date": "2003-11-24",
+      "price": 1.556,
+      "source": "eia"
+    },
+    {
+      "date": "2003-12-01",
+      "price": 1.548,
+      "source": "eia"
+    },
+    {
+      "date": "2003-12-08",
+      "price": 1.535,
+      "source": "eia"
+    },
+    {
+      "date": "2003-12-15",
+      "price": 1.53,
+      "source": "eia"
+    },
+    {
+      "date": "2003-12-22",
+      "price": 1.542,
+      "source": "eia"
+    },
+    {
+      "date": "2003-12-29",
+      "price": 1.543,
+      "source": "eia"
+    },
+    {
+      "date": "2004-01-05",
+      "price": 1.562,
+      "source": "eia"
+    },
+    {
+      "date": "2004-01-12",
+      "price": 1.621,
+      "source": "eia"
+    },
+    {
+      "date": "2004-01-19",
+      "price": 1.655,
+      "source": "eia"
+    },
+    {
+      "date": "2004-01-26",
+      "price": 1.678,
+      "source": "eia"
+    },
+    {
+      "date": "2004-02-02",
+      "price": 1.683,
+      "source": "eia"
+    },
+    {
+      "date": "2004-02-09",
+      "price": 1.684,
+      "source": "eia"
+    },
+    {
+      "date": "2004-02-16",
+      "price": 1.688,
+      "source": "eia"
+    },
+    {
+      "date": "2004-02-23",
+      "price": 1.705,
+      "source": "eia"
+    },
+    {
+      "date": "2004-03-01",
+      "price": 1.725,
+      "source": "eia"
+    },
+    {
+      "date": "2004-03-08",
+      "price": 1.754,
+      "source": "eia"
+    },
+    {
+      "date": "2004-03-15",
+      "price": 1.752,
+      "source": "eia"
+    },
+    {
+      "date": "2004-03-22",
+      "price": 1.769,
+      "source": "eia"
+    },
+    {
+      "date": "2004-03-29",
+      "price": 1.779,
+      "source": "eia"
+    },
+    {
+      "date": "2004-04-05",
+      "price": 1.792,
+      "source": "eia"
+    },
+    {
+      "date": "2004-04-12",
+      "price": 1.79,
+      "source": "eia"
+    },
+    {
+      "date": "2004-04-19",
+      "price": 1.806,
+      "source": "eia"
+    },
+    {
+      "date": "2004-04-26",
+      "price": 1.813,
+      "source": "eia"
+    },
+    {
+      "date": "2004-05-03",
+      "price": 1.846,
+      "source": "eia"
+    },
+    {
+      "date": "2004-05-10",
+      "price": 1.939,
+      "source": "eia"
+    },
+    {
+      "date": "2004-05-17",
+      "price": 2.027,
+      "source": "eia"
+    },
+    {
+      "date": "2004-05-24",
+      "price": 2.081,
+      "source": "eia"
+    },
+    {
+      "date": "2004-05-31",
+      "price": 2.088,
+      "source": "eia"
+    },
+    {
+      "date": "2004-06-07",
+      "price": 2.074,
+      "source": "eia"
+    },
+    {
+      "date": "2004-06-14",
+      "price": 2.048,
+      "source": "eia"
+    },
+    {
+      "date": "2004-06-21",
+      "price": 2.012,
+      "source": "eia"
+    },
+    {
+      "date": "2004-06-28",
+      "price": 1.989,
+      "source": "eia"
+    },
+    {
+      "date": "2004-07-05",
+      "price": 1.958,
+      "source": "eia"
+    },
+    {
+      "date": "2004-07-12",
+      "price": 1.961,
+      "source": "eia"
+    },
+    {
+      "date": "2004-07-19",
+      "price": 1.971,
+      "source": "eia"
+    },
+    {
+      "date": "2004-07-26",
+      "price": 1.96,
+      "source": "eia"
+    },
+    {
+      "date": "2004-08-02",
+      "price": 1.934,
+      "source": "eia"
+    },
+    {
+      "date": "2004-08-09",
+      "price": 1.92,
+      "source": "eia"
+    },
+    {
+      "date": "2004-08-16",
+      "price": 1.914,
+      "source": "eia"
+    },
+    {
+      "date": "2004-08-23",
+      "price": 1.922,
+      "source": "eia"
+    },
+    {
+      "date": "2004-08-30",
+      "price": 1.909,
+      "source": "eia"
+    },
+    {
+      "date": "2004-09-06",
+      "price": 1.9,
+      "source": "eia"
+    },
+    {
+      "date": "2004-09-13",
+      "price": 1.891,
+      "source": "eia"
+    },
+    {
+      "date": "2004-09-20",
+      "price": 1.9,
+      "source": "eia"
+    },
+    {
+      "date": "2004-09-27",
+      "price": 1.948,
+      "source": "eia"
+    },
+    {
+      "date": "2004-10-04",
+      "price": 1.972,
+      "source": "eia"
+    },
+    {
+      "date": "2004-10-11",
+      "price": 2.015,
+      "source": "eia"
+    },
+    {
+      "date": "2004-10-18",
+      "price": 2.057,
+      "source": "eia"
+    },
+    {
+      "date": "2004-10-25",
+      "price": 2.066,
+      "source": "eia"
+    },
+    {
+      "date": "2004-11-01",
+      "price": 2.066,
+      "source": "eia"
+    },
+    {
+      "date": "2004-11-08",
+      "price": 2.047,
+      "source": "eia"
+    },
+    {
+      "date": "2004-11-15",
+      "price": 2.025,
+      "source": "eia"
+    },
+    {
+      "date": "2004-11-22",
+      "price": 2.001,
+      "source": "eia"
+    },
+    {
+      "date": "2004-11-29",
+      "price": 1.994,
+      "source": "eia"
+    },
+    {
+      "date": "2004-12-06",
+      "price": 1.976,
+      "source": "eia"
+    },
+    {
+      "date": "2004-12-13",
+      "price": 1.933,
+      "source": "eia"
+    },
+    {
+      "date": "2004-12-20",
+      "price": 1.899,
+      "source": "eia"
+    },
+    {
+      "date": "2004-12-27",
+      "price": 1.88,
+      "source": "eia"
+    },
+    {
+      "date": "2005-01-03",
+      "price": 1.858,
+      "source": "eia"
+    },
+    {
+      "date": "2005-01-10",
+      "price": 1.86,
+      "source": "eia"
+    },
+    {
+      "date": "2005-01-17",
+      "price": 1.886,
+      "source": "eia"
+    },
+    {
+      "date": "2005-01-24",
+      "price": 1.912,
+      "source": "eia"
+    },
+    {
+      "date": "2005-01-31",
+      "price": 1.963,
+      "source": "eia"
+    },
+    {
+      "date": "2005-02-07",
+      "price": 1.964,
+      "source": "eia"
+    },
+    {
+      "date": "2005-02-14",
+      "price": 1.949,
+      "source": "eia"
+    },
+    {
+      "date": "2005-02-21",
+      "price": 1.939,
+      "source": "eia"
+    },
+    {
+      "date": "2005-02-28",
+      "price": 1.941,
+      "source": "eia"
+    },
+    {
+      "date": "2005-03-07",
+      "price": 2.003,
+      "source": "eia"
+    },
+    {
+      "date": "2005-03-14",
+      "price": 2.067,
+      "source": "eia"
+    },
+    {
+      "date": "2005-03-21",
+      "price": 2.12,
+      "source": "eia"
+    },
+    {
+      "date": "2005-03-28",
+      "price": 2.171,
+      "source": "eia"
+    },
+    {
+      "date": "2005-04-04",
+      "price": 2.236,
+      "source": "eia"
+    },
+    {
+      "date": "2005-04-11",
+      "price": 2.285,
+      "source": "eia"
+    },
+    {
+      "date": "2005-04-18",
+      "price": 2.257,
+      "source": "eia"
+    },
+    {
+      "date": "2005-04-25",
+      "price": 2.255,
+      "source": "eia"
+    },
+    {
+      "date": "2005-05-02",
+      "price": 2.262,
+      "source": "eia"
+    },
+    {
+      "date": "2005-05-09",
+      "price": 2.233,
+      "source": "eia"
+    },
+    {
+      "date": "2005-05-16",
+      "price": 2.202,
+      "source": "eia"
+    },
+    {
+      "date": "2005-05-23",
+      "price": 2.17,
+      "source": "eia"
+    },
+    {
+      "date": "2005-05-30",
+      "price": 2.146,
+      "source": "eia"
+    },
+    {
+      "date": "2005-06-06",
+      "price": 2.16,
+      "source": "eia"
+    },
+    {
+      "date": "2005-06-13",
+      "price": 2.177,
+      "source": "eia"
+    },
+    {
+      "date": "2005-06-20",
+      "price": 2.207,
+      "source": "eia"
+    },
+    {
+      "date": "2005-06-27",
+      "price": 2.25,
+      "source": "eia"
+    },
+    {
+      "date": "2005-07-04",
+      "price": 2.265,
+      "source": "eia"
+    },
+    {
+      "date": "2005-07-11",
+      "price": 2.363,
+      "source": "eia"
+    },
+    {
+      "date": "2005-07-18",
+      "price": 2.369,
+      "source": "eia"
+    },
+    {
+      "date": "2005-07-25",
+      "price": 2.358,
+      "source": "eia"
+    },
+    {
+      "date": "2005-08-01",
+      "price": 2.352,
+      "source": "eia"
+    },
+    {
+      "date": "2005-08-08",
+      "price": 2.402,
+      "source": "eia"
+    },
+    {
+      "date": "2005-08-15",
+      "price": 2.599,
+      "source": "eia"
+    },
+    {
+      "date": "2005-08-22",
+      "price": 2.654,
+      "source": "eia"
+    },
+    {
+      "date": "2005-08-29",
+      "price": 2.646,
+      "source": "eia"
+    },
+    {
+      "date": "2005-09-05",
+      "price": 3.252,
+      "source": "eia"
+    },
+    {
+      "date": "2005-09-12",
+      "price": 3.111,
+      "source": "eia"
+    },
+    {
+      "date": "2005-09-19",
+      "price": 2.914,
+      "source": "eia"
+    },
+    {
+      "date": "2005-09-26",
+      "price": 2.906,
+      "source": "eia"
+    },
+    {
+      "date": "2005-10-03",
+      "price": 3.016,
+      "source": "eia"
+    },
+    {
+      "date": "2005-10-10",
+      "price": 2.94,
+      "source": "eia"
+    },
+    {
+      "date": "2005-10-17",
+      "price": 2.823,
+      "source": "eia"
+    },
+    {
+      "date": "2005-10-24",
+      "price": 2.693,
+      "source": "eia"
+    },
+    {
+      "date": "2005-10-31",
+      "price": 2.562,
+      "source": "eia"
+    },
+    {
+      "date": "2005-11-07",
+      "price": 2.453,
+      "source": "eia"
+    },
+    {
+      "date": "2005-11-14",
+      "price": 2.351,
+      "source": "eia"
+    },
+    {
+      "date": "2005-11-21",
+      "price": 2.261,
+      "source": "eia"
+    },
+    {
+      "date": "2005-11-28",
+      "price": 2.207,
+      "source": "eia"
+    },
+    {
+      "date": "2005-12-05",
+      "price": 2.18,
+      "source": "eia"
+    },
+    {
+      "date": "2005-12-12",
+      "price": 2.235,
+      "source": "eia"
+    },
+    {
+      "date": "2005-12-19",
+      "price": 2.279,
+      "source": "eia"
+    },
+    {
+      "date": "2005-12-26",
+      "price": 2.275,
+      "source": "eia"
+    },
+    {
+      "date": "2006-01-02",
+      "price": 2.318,
+      "source": "eia"
+    },
+    {
+      "date": "2006-01-09",
+      "price": 2.424,
+      "source": "eia"
+    },
+    {
+      "date": "2006-01-16",
+      "price": 2.434,
+      "source": "eia"
+    },
+    {
+      "date": "2006-01-23",
+      "price": 2.449,
+      "source": "eia"
+    },
+    {
+      "date": "2006-01-30",
+      "price": 2.447,
+      "source": "eia"
+    },
+    {
+      "date": "2006-02-06",
+      "price": 2.429,
+      "source": "eia"
+    },
+    {
+      "date": "2006-02-13",
+      "price": 2.376,
+      "source": "eia"
+    },
+    {
+      "date": "2006-02-20",
+      "price": 2.31,
+      "source": "eia"
+    },
+    {
+      "date": "2006-02-27",
+      "price": 2.29,
+      "source": "eia"
+    },
+    {
+      "date": "2006-03-06",
+      "price": 2.341,
+      "source": "eia"
+    },
+    {
+      "date": "2006-03-13",
+      "price": 2.387,
+      "source": "eia"
+    },
+    {
+      "date": "2006-03-20",
+      "price": 2.55,
+      "source": "eia"
+    },
+    {
+      "date": "2006-03-27",
+      "price": 2.549,
+      "source": "eia"
+    },
+    {
+      "date": "2006-04-03",
+      "price": 2.634,
+      "source": "eia"
+    },
+    {
+      "date": "2006-04-10",
+      "price": 2.743,
+      "source": "eia"
+    },
+    {
+      "date": "2006-04-17",
+      "price": 2.854,
+      "source": "eia"
+    },
+    {
+      "date": "2006-04-24",
+      "price": 2.997,
+      "source": "eia"
+    },
+    {
+      "date": "2006-05-01",
+      "price": 2.995,
+      "source": "eia"
+    },
+    {
+      "date": "2006-05-08",
+      "price": 2.964,
+      "source": "eia"
+    },
+    {
+      "date": "2006-05-15",
+      "price": 2.987,
+      "source": "eia"
+    },
+    {
+      "date": "2006-05-22",
+      "price": 2.946,
+      "source": "eia"
+    },
+    {
+      "date": "2006-05-29",
+      "price": 2.913,
+      "source": "eia"
+    },
+    {
+      "date": "2006-06-05",
+      "price": 2.928,
+      "source": "eia"
+    },
+    {
+      "date": "2006-06-12",
+      "price": 2.954,
+      "source": "eia"
+    },
+    {
+      "date": "2006-06-19",
+      "price": 2.927,
+      "source": "eia"
+    },
+    {
+      "date": "2006-06-26",
+      "price": 2.91,
+      "source": "eia"
+    },
+    {
+      "date": "2006-07-03",
+      "price": 2.978,
+      "source": "eia"
+    },
+    {
+      "date": "2006-07-10",
+      "price": 3.016,
+      "source": "eia"
+    },
+    {
+      "date": "2006-07-17",
+      "price": 3.034,
+      "source": "eia"
+    },
+    {
+      "date": "2006-07-24",
+      "price": 3.06,
+      "source": "eia"
+    },
+    {
+      "date": "2006-07-31",
+      "price": 3.071,
+      "source": "eia"
+    },
+    {
+      "date": "2006-08-07",
+      "price": 3.091,
+      "source": "eia"
+    },
+    {
+      "date": "2006-08-14",
+      "price": 3.068,
+      "source": "eia"
+    },
+    {
+      "date": "2006-08-21",
+      "price": 2.993,
+      "source": "eia"
+    },
+    {
+      "date": "2006-08-28",
+      "price": 2.92,
+      "source": "eia"
+    },
+    {
+      "date": "2006-09-04",
+      "price": 2.815,
+      "source": "eia"
+    },
+    {
+      "date": "2006-09-11",
+      "price": 2.716,
+      "source": "eia"
+    },
+    {
+      "date": "2006-09-18",
+      "price": 2.59,
+      "source": "eia"
+    },
+    {
+      "date": "2006-09-25",
+      "price": 2.445,
+      "source": "eia"
+    },
+    {
+      "date": "2006-10-02",
+      "price": 2.365,
+      "source": "eia"
+    },
+    {
+      "date": "2006-10-09",
+      "price": 2.303,
+      "source": "eia"
+    },
+    {
+      "date": "2006-10-16",
+      "price": 2.268,
+      "source": "eia"
+    },
+    {
+      "date": "2006-10-23",
+      "price": 2.239,
+      "source": "eia"
+    },
+    {
+      "date": "2006-10-30",
+      "price": 2.246,
+      "source": "eia"
+    },
+    {
+      "date": "2006-11-06",
+      "price": 2.23,
+      "source": "eia"
+    },
+    {
+      "date": "2006-11-13",
+      "price": 2.259,
+      "source": "eia"
+    },
+    {
+      "date": "2006-11-20",
+      "price": 2.268,
+      "source": "eia"
+    },
+    {
+      "date": "2006-11-27",
+      "price": 2.287,
+      "source": "eia"
+    },
+    {
+      "date": "2006-12-04",
+      "price": 2.351,
+      "source": "eia"
+    },
+    {
+      "date": "2006-12-11",
+      "price": 2.36,
+      "source": "eia"
+    },
+    {
+      "date": "2006-12-18",
+      "price": 2.375,
+      "source": "eia"
+    },
+    {
+      "date": "2006-12-25",
+      "price": 2.408,
+      "source": "eia"
+    },
+    {
+      "date": "2007-01-01",
+      "price": 2.403,
+      "source": "eia"
+    },
+    {
+      "date": "2007-01-08",
+      "price": 2.377,
+      "source": "eia"
+    },
+    {
+      "date": "2007-01-15",
+      "price": 2.321,
+      "source": "eia"
+    },
+    {
+      "date": "2007-01-22",
+      "price": 2.262,
+      "source": "eia"
+    },
+    {
+      "date": "2007-01-29",
+      "price": 2.224,
+      "source": "eia"
+    },
+    {
+      "date": "2007-02-05",
+      "price": 2.224,
+      "source": "eia"
+    },
+    {
+      "date": "2007-02-12",
+      "price": 2.248,
+      "source": "eia"
+    },
+    {
+      "date": "2007-02-19",
+      "price": 2.301,
+      "source": "eia"
+    },
+    {
+      "date": "2007-02-26",
+      "price": 2.394,
+      "source": "eia"
+    },
+    {
+      "date": "2007-03-05",
+      "price": 2.546,
+      "source": "eia"
+    },
+    {
+      "date": "2007-03-12",
+      "price": 2.588,
+      "source": "eia"
+    },
+    {
+      "date": "2007-03-19",
+      "price": 2.603,
+      "source": "eia"
+    },
+    {
+      "date": "2007-03-26",
+      "price": 2.629,
+      "source": "eia"
+    },
+    {
+      "date": "2007-04-02",
+      "price": 2.727,
+      "source": "eia"
+    },
+    {
+      "date": "2007-04-09",
+      "price": 2.812,
+      "source": "eia"
+    },
+    {
+      "date": "2007-04-16",
+      "price": 2.896,
+      "source": "eia"
+    },
+    {
+      "date": "2007-04-23",
+      "price": 2.893,
+      "source": "eia"
+    },
+    {
+      "date": "2007-04-30",
+      "price": 2.974,
+      "source": "eia"
+    },
+    {
+      "date": "2007-05-07",
+      "price": 3.016,
+      "source": "eia"
+    },
+    {
+      "date": "2007-05-14",
+      "price": 3.04,
+      "source": "eia"
+    },
+    {
+      "date": "2007-05-21",
+      "price": 3.155,
+      "source": "eia"
+    },
+    {
+      "date": "2007-05-28",
+      "price": 3.157,
+      "source": "eia"
+    },
+    {
+      "date": "2007-06-04",
+      "price": 3.127,
+      "source": "eia"
+    },
+    {
+      "date": "2007-06-11",
+      "price": 3.082,
+      "source": "eia"
+    },
+    {
+      "date": "2007-06-18",
+      "price": 3.037,
+      "source": "eia"
+    },
+    {
+      "date": "2007-06-25",
+      "price": 3.007,
+      "source": "eia"
+    },
+    {
+      "date": "2007-07-02",
+      "price": 2.987,
+      "source": "eia"
+    },
+    {
+      "date": "2007-07-09",
+      "price": 2.985,
+      "source": "eia"
+    },
+    {
+      "date": "2007-07-16",
+      "price": 3.036,
+      "source": "eia"
+    },
+    {
+      "date": "2007-07-23",
+      "price": 2.988,
+      "source": "eia"
+    },
+    {
+      "date": "2007-07-30",
+      "price": 2.936,
+      "source": "eia"
+    },
+    {
+      "date": "2007-08-06",
+      "price": 2.888,
+      "source": "eia"
+    },
+    {
+      "date": "2007-08-13",
+      "price": 2.818,
+      "source": "eia"
+    },
+    {
+      "date": "2007-08-20",
+      "price": 2.798,
+      "source": "eia"
+    },
+    {
+      "date": "2007-08-27",
+      "price": 2.764,
+      "source": "eia"
+    },
+    {
+      "date": "2007-09-03",
+      "price": 2.776,
+      "source": "eia"
+    },
+    {
+      "date": "2007-09-10",
+      "price": 2.796,
+      "source": "eia"
+    },
+    {
+      "date": "2007-09-17",
+      "price": 2.8,
+      "source": "eia"
+    },
+    {
+      "date": "2007-09-24",
+      "price": 2.834,
+      "source": "eia"
+    },
+    {
+      "date": "2007-10-01",
+      "price": 2.833,
+      "source": "eia"
+    },
+    {
+      "date": "2007-10-08",
+      "price": 2.813,
+      "source": "eia"
+    },
+    {
+      "date": "2007-10-15",
+      "price": 2.798,
+      "source": "eia"
+    },
+    {
+      "date": "2007-10-22",
+      "price": 2.853,
+      "source": "eia"
+    },
+    {
+      "date": "2007-10-29",
+      "price": 2.897,
+      "source": "eia"
+    },
+    {
+      "date": "2007-11-05",
+      "price": 3.036,
+      "source": "eia"
+    },
+    {
+      "date": "2007-11-12",
+      "price": 3.14,
+      "source": "eia"
+    },
+    {
+      "date": "2007-11-19",
+      "price": 3.147,
+      "source": "eia"
+    },
+    {
+      "date": "2007-11-26",
+      "price": 3.153,
+      "source": "eia"
+    },
+    {
+      "date": "2007-12-03",
+      "price": 3.136,
+      "source": "eia"
+    },
+    {
+      "date": "2007-12-10",
+      "price": 3.094,
+      "source": "eia"
+    },
+    {
+      "date": "2007-12-17",
+      "price": 3.08,
+      "source": "eia"
+    },
+    {
+      "date": "2007-12-24",
+      "price": 3.071,
+      "source": "eia"
+    },
+    {
+      "date": "2007-12-31",
+      "price": 3.128,
+      "source": "eia"
+    },
+    {
+      "date": "2008-01-07",
+      "price": 3.185,
+      "source": "eia"
+    },
+    {
+      "date": "2008-01-14",
+      "price": 3.17,
+      "source": "eia"
+    },
+    {
+      "date": "2008-01-21",
+      "price": 3.126,
+      "source": "eia"
+    },
+    {
+      "date": "2008-01-28",
+      "price": 3.09,
+      "source": "eia"
+    },
+    {
+      "date": "2008-02-04",
+      "price": 3.07,
+      "source": "eia"
+    },
+    {
+      "date": "2008-02-11",
+      "price": 3.041,
+      "source": "eia"
+    },
+    {
+      "date": "2008-02-18",
+      "price": 3.11,
+      "source": "eia"
+    },
+    {
+      "date": "2008-02-25",
+      "price": 3.209,
+      "source": "eia"
+    },
+    {
+      "date": "2008-03-03",
+      "price": 3.229,
+      "source": "eia"
+    },
+    {
+      "date": "2008-03-10",
+      "price": 3.255,
+      "source": "eia"
+    },
+    {
+      "date": "2008-03-17",
+      "price": 3.315,
+      "source": "eia"
+    },
+    {
+      "date": "2008-03-24",
+      "price": 3.305,
+      "source": "eia"
+    },
+    {
+      "date": "2008-03-31",
+      "price": 3.32,
+      "source": "eia"
+    },
+    {
+      "date": "2008-04-07",
+      "price": 3.348,
+      "source": "eia"
+    },
+    {
+      "date": "2008-04-14",
+      "price": 3.399,
+      "source": "eia"
+    },
+    {
+      "date": "2008-04-21",
+      "price": 3.547,
+      "source": "eia"
+    },
+    {
+      "date": "2008-04-28",
+      "price": 3.663,
+      "source": "eia"
+    },
+    {
+      "date": "2008-05-05",
+      "price": 3.673,
+      "source": "eia"
+    },
+    {
+      "date": "2008-05-12",
+      "price": 3.775,
+      "source": "eia"
+    },
+    {
+      "date": "2008-05-19",
+      "price": 3.857,
+      "source": "eia"
+    },
+    {
+      "date": "2008-05-26",
+      "price": 4.0,
+      "source": "eia"
+    },
+    {
+      "date": "2008-06-02",
+      "price": 4.033,
+      "source": "eia"
+    },
+    {
+      "date": "2008-06-09",
+      "price": 4.081,
+      "source": "eia"
+    },
+    {
+      "date": "2008-06-16",
+      "price": 4.115,
+      "source": "eia"
+    },
+    {
+      "date": "2008-06-23",
+      "price": 4.111,
+      "source": "eia"
+    },
+    {
+      "date": "2008-06-30",
+      "price": 4.121,
+      "source": "eia"
+    },
+    {
+      "date": "2008-07-07",
+      "price": 4.143,
+      "source": "eia"
+    },
+    {
+      "date": "2008-07-14",
+      "price": 4.136,
+      "source": "eia"
+    },
+    {
+      "date": "2008-07-21",
+      "price": 4.111,
+      "source": "eia"
+    },
+    {
+      "date": "2008-07-28",
+      "price": 4.031,
+      "source": "eia"
+    },
+    {
+      "date": "2008-08-04",
+      "price": 3.958,
+      "source": "eia"
+    },
+    {
+      "date": "2008-08-11",
+      "price": 3.87,
+      "source": "eia"
+    },
+    {
+      "date": "2008-08-18",
+      "price": 3.775,
+      "source": "eia"
+    },
+    {
+      "date": "2008-08-25",
+      "price": 3.707,
+      "source": "eia"
+    },
+    {
+      "date": "2008-09-01",
+      "price": 3.706,
+      "source": "eia"
+    },
+    {
+      "date": "2008-09-08",
+      "price": 3.682,
+      "source": "eia"
+    },
+    {
+      "date": "2008-09-15",
+      "price": 3.88,
+      "source": "eia"
+    },
+    {
+      "date": "2008-09-22",
+      "price": 3.793,
+      "source": "eia"
+    },
+    {
+      "date": "2008-09-29",
+      "price": 3.734,
+      "source": "eia"
+    },
+    {
+      "date": "2008-10-06",
+      "price": 3.616,
+      "source": "eia"
+    },
+    {
+      "date": "2008-10-13",
+      "price": 3.298,
+      "source": "eia"
+    },
+    {
+      "date": "2008-10-20",
+      "price": 3.012,
+      "source": "eia"
+    },
+    {
+      "date": "2008-10-27",
+      "price": 2.761,
+      "source": "eia"
+    },
+    {
+      "date": "2008-11-03",
+      "price": 2.528,
+      "source": "eia"
+    },
+    {
+      "date": "2008-11-10",
+      "price": 2.349,
+      "source": "eia"
+    },
+    {
+      "date": "2008-11-17",
+      "price": 2.189,
+      "source": "eia"
+    },
+    {
+      "date": "2008-11-24",
+      "price": 2.029,
+      "source": "eia"
+    },
+    {
+      "date": "2008-12-01",
+      "price": 1.936,
+      "source": "eia"
+    },
+    {
+      "date": "2008-12-08",
+      "price": 1.833,
+      "source": "eia"
+    },
+    {
+      "date": "2008-12-15",
+      "price": 1.758,
+      "source": "eia"
+    },
+    {
+      "date": "2008-12-22",
+      "price": 1.747,
+      "source": "eia"
+    },
+    {
+      "date": "2008-12-29",
+      "price": 1.705,
+      "source": "eia"
+    },
+    {
+      "date": "2009-01-05",
+      "price": 1.715,
+      "source": "eia"
+    },
+    {
+      "date": "2009-01-12",
+      "price": 1.819,
+      "source": "eia"
+    },
+    {
+      "date": "2009-01-19",
+      "price": 1.879,
+      "source": "eia"
+    },
+    {
+      "date": "2009-01-26",
+      "price": 1.884,
+      "source": "eia"
+    },
+    {
+      "date": "2009-02-02",
+      "price": 1.944,
+      "source": "eia"
+    },
+    {
+      "date": "2009-02-09",
+      "price": 1.98,
+      "source": "eia"
+    },
+    {
+      "date": "2009-02-16",
+      "price": 2.018,
+      "source": "eia"
+    },
+    {
+      "date": "2009-02-23",
+      "price": 1.98,
+      "source": "eia"
+    },
+    {
+      "date": "2009-03-02",
+      "price": 1.99,
+      "source": "eia"
+    },
+    {
+      "date": "2009-03-09",
+      "price": 1.987,
+      "source": "eia"
+    },
+    {
+      "date": "2009-03-16",
+      "price": 1.977,
+      "source": "eia"
+    },
+    {
+      "date": "2009-03-23",
+      "price": 2.007,
+      "source": "eia"
+    },
+    {
+      "date": "2009-03-30",
+      "price": 2.093,
+      "source": "eia"
+    },
+    {
+      "date": "2009-04-06",
+      "price": 2.09,
+      "source": "eia"
+    },
+    {
+      "date": "2009-04-13",
+      "price": 2.095,
+      "source": "eia"
+    },
+    {
+      "date": "2009-04-20",
+      "price": 2.108,
+      "source": "eia"
+    },
+    {
+      "date": "2009-04-27",
+      "price": 2.103,
+      "source": "eia"
+    },
+    {
+      "date": "2009-05-04",
+      "price": 2.115,
+      "source": "eia"
+    },
+    {
+      "date": "2009-05-11",
+      "price": 2.28,
+      "source": "eia"
+    },
+    {
+      "date": "2009-05-18",
+      "price": 2.361,
+      "source": "eia"
+    },
+    {
+      "date": "2009-05-25",
+      "price": 2.461,
+      "source": "eia"
+    },
+    {
+      "date": "2009-06-01",
+      "price": 2.528,
+      "source": "eia"
+    },
+    {
+      "date": "2009-06-08",
+      "price": 2.61,
+      "source": "eia"
+    },
+    {
+      "date": "2009-06-15",
+      "price": 2.687,
+      "source": "eia"
+    },
+    {
+      "date": "2009-06-22",
+      "price": 2.729,
+      "source": "eia"
+    },
+    {
+      "date": "2009-06-29",
+      "price": 2.701,
+      "source": "eia"
+    },
+    {
+      "date": "2009-07-06",
+      "price": 2.673,
+      "source": "eia"
+    },
+    {
+      "date": "2009-07-13",
+      "price": 2.602,
+      "source": "eia"
+    },
+    {
+      "date": "2009-07-20",
+      "price": 2.536,
+      "source": "eia"
+    },
+    {
+      "date": "2009-07-27",
+      "price": 2.545,
+      "source": "eia"
+    },
+    {
+      "date": "2009-08-03",
+      "price": 2.592,
+      "source": "eia"
+    },
+    {
+      "date": "2009-08-10",
+      "price": 2.675,
+      "source": "eia"
+    },
+    {
+      "date": "2009-08-17",
+      "price": 2.684,
+      "source": "eia"
+    },
+    {
+      "date": "2009-08-24",
+      "price": 2.676,
+      "source": "eia"
+    },
+    {
+      "date": "2009-08-31",
+      "price": 2.664,
+      "source": "eia"
+    },
+    {
+      "date": "2009-09-07",
+      "price": 2.644,
+      "source": "eia"
+    },
+    {
+      "date": "2009-09-14",
+      "price": 2.607,
+      "source": "eia"
+    },
+    {
+      "date": "2009-09-21",
+      "price": 2.571,
+      "source": "eia"
+    },
+    {
+      "date": "2009-09-28",
+      "price": 2.523,
+      "source": "eia"
+    },
+    {
+      "date": "2009-10-05",
+      "price": 2.484,
+      "source": "eia"
+    },
+    {
+      "date": "2009-10-12",
+      "price": 2.486,
+      "source": "eia"
+    },
+    {
+      "date": "2009-10-19",
+      "price": 2.592,
+      "source": "eia"
+    },
+    {
+      "date": "2009-10-26",
+      "price": 2.719,
+      "source": "eia"
+    },
+    {
+      "date": "2009-11-02",
+      "price": 2.743,
+      "source": "eia"
+    },
+    {
+      "date": "2009-11-09",
+      "price": 2.731,
+      "source": "eia"
+    },
+    {
+      "date": "2009-11-16",
+      "price": 2.705,
+      "source": "eia"
+    },
+    {
+      "date": "2009-11-23",
+      "price": 2.704,
+      "source": "eia"
+    },
+    {
+      "date": "2009-11-30",
+      "price": 2.701,
+      "source": "eia"
+    },
+    {
+      "date": "2009-12-07",
+      "price": 2.713,
+      "source": "eia"
+    },
+    {
+      "date": "2009-12-14",
+      "price": 2.684,
+      "source": "eia"
+    },
+    {
+      "date": "2009-12-21",
+      "price": 2.664,
+      "source": "eia"
+    },
+    {
+      "date": "2009-12-28",
+      "price": 2.67,
+      "source": "eia"
+    },
+    {
+      "date": "2010-01-04",
+      "price": 2.72,
+      "source": "eia"
+    },
+    {
+      "date": "2010-01-11",
+      "price": 2.811,
+      "source": "eia"
+    },
+    {
+      "date": "2010-01-18",
+      "price": 2.818,
+      "source": "eia"
+    },
+    {
+      "date": "2010-01-25",
+      "price": 2.791,
+      "source": "eia"
+    },
+    {
+      "date": "2010-02-01",
+      "price": 2.752,
+      "source": "eia"
+    },
+    {
+      "date": "2010-02-08",
+      "price": 2.734,
+      "source": "eia"
+    },
+    {
+      "date": "2010-02-15",
+      "price": 2.702,
+      "source": "eia"
+    },
+    {
+      "date": "2010-02-22",
+      "price": 2.723,
+      "source": "eia"
+    },
+    {
+      "date": "2010-03-01",
+      "price": 2.764,
+      "source": "eia"
+    },
+    {
+      "date": "2010-03-08",
+      "price": 2.806,
+      "source": "eia"
+    },
+    {
+      "date": "2010-03-15",
+      "price": 2.842,
+      "source": "eia"
+    },
+    {
+      "date": "2010-03-22",
+      "price": 2.853,
+      "source": "eia"
+    },
+    {
+      "date": "2010-03-29",
+      "price": 2.84,
+      "source": "eia"
+    },
+    {
+      "date": "2010-04-05",
+      "price": 2.854,
+      "source": "eia"
+    },
+    {
+      "date": "2010-04-12",
+      "price": 2.89,
+      "source": "eia"
+    },
+    {
+      "date": "2010-04-19",
+      "price": 2.889,
+      "source": "eia"
+    },
+    {
+      "date": "2010-04-26",
+      "price": 2.899,
+      "source": "eia"
+    },
+    {
+      "date": "2010-05-03",
+      "price": 2.942,
+      "source": "eia"
+    },
+    {
+      "date": "2010-05-10",
+      "price": 2.96,
+      "source": "eia"
+    },
+    {
+      "date": "2010-05-17",
+      "price": 2.927,
+      "source": "eia"
+    },
+    {
+      "date": "2010-05-24",
+      "price": 2.861,
+      "source": "eia"
+    },
+    {
+      "date": "2010-05-31",
+      "price": 2.794,
+      "source": "eia"
+    },
+    {
+      "date": "2010-06-07",
+      "price": 2.758,
+      "source": "eia"
+    },
+    {
+      "date": "2010-06-14",
+      "price": 2.73,
+      "source": "eia"
+    },
+    {
+      "date": "2010-06-21",
+      "price": 2.758,
+      "source": "eia"
+    },
+    {
+      "date": "2010-06-28",
+      "price": 2.768,
+      "source": "eia"
+    },
+    {
+      "date": "2010-07-05",
+      "price": 2.744,
+      "source": "eia"
+    },
+    {
+      "date": "2010-07-12",
+      "price": 2.728,
+      "source": "eia"
+    },
+    {
+      "date": "2010-07-19",
+      "price": 2.719,
+      "source": "eia"
+    },
+    {
+      "date": "2010-07-26",
+      "price": 2.738,
+      "source": "eia"
+    },
+    {
+      "date": "2010-08-02",
+      "price": 2.744,
+      "source": "eia"
+    },
+    {
+      "date": "2010-08-09",
+      "price": 2.781,
+      "source": "eia"
+    },
+    {
+      "date": "2010-08-16",
+      "price": 2.751,
+      "source": "eia"
+    },
+    {
+      "date": "2010-08-23",
+      "price": 2.716,
+      "source": "eia"
+    },
+    {
+      "date": "2010-08-30",
+      "price": 2.68,
+      "source": "eia"
+    },
+    {
+      "date": "2010-09-06",
+      "price": 2.67,
+      "source": "eia"
+    },
+    {
+      "date": "2010-09-13",
+      "price": 2.69,
+      "source": "eia"
+    },
+    {
+      "date": "2010-09-20",
+      "price": 2.713,
+      "source": "eia"
+    },
+    {
+      "date": "2010-09-27",
+      "price": 2.704,
+      "source": "eia"
+    },
+    {
+      "date": "2010-10-04",
+      "price": 2.743,
+      "source": "eia"
+    },
+    {
+      "date": "2010-10-11",
+      "price": 2.84,
+      "source": "eia"
+    },
+    {
+      "date": "2010-10-18",
+      "price": 2.878,
+      "source": "eia"
+    },
+    {
+      "date": "2010-10-25",
+      "price": 2.873,
+      "source": "eia"
+    },
+    {
+      "date": "2010-11-01",
+      "price": 2.861,
+      "source": "eia"
+    },
+    {
+      "date": "2010-11-08",
+      "price": 2.893,
+      "source": "eia"
+    },
+    {
+      "date": "2010-11-15",
+      "price": 2.948,
+      "source": "eia"
+    },
+    {
+      "date": "2010-11-22",
+      "price": 2.965,
+      "source": "eia"
+    },
+    {
+      "date": "2010-11-29",
+      "price": 2.961,
+      "source": "eia"
+    },
+    {
+      "date": "2010-12-06",
+      "price": 3.048,
+      "source": "eia"
+    },
+    {
+      "date": "2010-12-13",
+      "price": 3.076,
+      "source": "eia"
+    },
+    {
+      "date": "2010-12-20",
+      "price": 3.077,
+      "source": "eia"
+    },
+    {
+      "date": "2010-12-27",
+      "price": 3.133,
+      "source": "eia"
+    },
+    {
+      "date": "2011-01-03",
+      "price": 3.149,
+      "source": "eia"
+    },
+    {
+      "date": "2011-01-10",
+      "price": 3.166,
+      "source": "eia"
+    },
+    {
+      "date": "2011-01-17",
+      "price": 3.181,
+      "source": "eia"
+    },
+    {
+      "date": "2011-01-24",
+      "price": 3.192,
+      "source": "eia"
+    },
+    {
+      "date": "2011-01-31",
+      "price": 3.176,
+      "source": "eia"
+    },
+    {
+      "date": "2011-02-07",
+      "price": 3.193,
+      "source": "eia"
+    },
+    {
+      "date": "2011-02-14",
+      "price": 3.207,
+      "source": "eia"
+    },
+    {
+      "date": "2011-02-21",
+      "price": 3.241,
+      "source": "eia"
+    },
+    {
+      "date": "2011-02-28",
+      "price": 3.425,
+      "source": "eia"
+    },
+    {
+      "date": "2011-03-07",
+      "price": 3.568,
+      "source": "eia"
+    },
+    {
+      "date": "2011-03-14",
+      "price": 3.616,
+      "source": "eia"
+    },
+    {
+      "date": "2011-03-21",
+      "price": 3.607,
+      "source": "eia"
+    },
+    {
+      "date": "2011-03-28",
+      "price": 3.623,
+      "source": "eia"
+    },
+    {
+      "date": "2011-04-04",
+      "price": 3.702,
+      "source": "eia"
+    },
+    {
+      "date": "2011-04-11",
+      "price": 3.805,
+      "source": "eia"
+    },
+    {
+      "date": "2011-04-18",
+      "price": 3.868,
+      "source": "eia"
+    },
+    {
+      "date": "2011-04-25",
+      "price": 3.913,
+      "source": "eia"
+    },
+    {
+      "date": "2011-05-02",
+      "price": 3.994,
+      "source": "eia"
+    },
+    {
+      "date": "2011-05-09",
+      "price": 4.018,
+      "source": "eia"
+    },
+    {
+      "date": "2011-05-16",
+      "price": 4.021,
+      "source": "eia"
+    },
+    {
+      "date": "2011-05-23",
+      "price": 3.929,
+      "source": "eia"
+    },
+    {
+      "date": "2011-05-30",
+      "price": 3.852,
+      "source": "eia"
+    },
+    {
+      "date": "2011-06-06",
+      "price": 3.808,
+      "source": "eia"
+    },
+    {
+      "date": "2011-06-13",
+      "price": 3.765,
+      "source": "eia"
+    },
+    {
+      "date": "2011-06-20",
+      "price": 3.727,
+      "source": "eia"
+    },
+    {
+      "date": "2011-06-27",
+      "price": 3.67,
+      "source": "eia"
+    },
+    {
+      "date": "2011-07-04",
+      "price": 3.64,
+      "source": "eia"
+    },
+    {
+      "date": "2011-07-11",
+      "price": 3.718,
+      "source": "eia"
+    },
+    {
+      "date": "2011-07-18",
+      "price": 3.776,
+      "source": "eia"
+    },
+    {
+      "date": "2011-07-25",
+      "price": 3.805,
+      "source": "eia"
+    },
+    {
+      "date": "2011-08-01",
+      "price": 3.818,
+      "source": "eia"
+    },
+    {
+      "date": "2011-08-08",
+      "price": 3.781,
+      "source": "eia"
+    },
+    {
+      "date": "2011-08-15",
+      "price": 3.712,
+      "source": "eia"
+    },
+    {
+      "date": "2011-08-22",
+      "price": 3.671,
+      "source": "eia"
+    },
+    {
+      "date": "2011-08-29",
+      "price": 3.678,
+      "source": "eia"
+    },
+    {
+      "date": "2011-09-05",
+      "price": 3.711,
+      "source": "eia"
+    },
+    {
+      "date": "2011-09-12",
+      "price": 3.705,
+      "source": "eia"
+    },
+    {
+      "date": "2011-09-19",
+      "price": 3.66,
+      "source": "eia"
+    },
+    {
+      "date": "2011-09-26",
+      "price": 3.583,
+      "source": "eia"
+    },
+    {
+      "date": "2011-10-03",
+      "price": 3.518,
+      "source": "eia"
+    },
+    {
+      "date": "2011-10-10",
+      "price": 3.479,
+      "source": "eia"
+    },
+    {
+      "date": "2011-10-17",
+      "price": 3.524,
+      "source": "eia"
+    },
+    {
+      "date": "2011-10-24",
+      "price": 3.532,
+      "source": "eia"
+    },
+    {
+      "date": "2011-10-31",
+      "price": 3.513,
+      "source": "eia"
+    },
+    {
+      "date": "2011-11-07",
+      "price": 3.489,
+      "source": "eia"
+    },
+    {
+      "date": "2011-11-14",
+      "price": 3.499,
+      "source": "eia"
+    },
+    {
+      "date": "2011-11-21",
+      "price": 3.453,
+      "source": "eia"
+    },
+    {
+      "date": "2011-11-28",
+      "price": 3.405,
+      "source": "eia"
+    },
+    {
+      "date": "2011-12-05",
+      "price": 3.378,
+      "source": "eia"
+    },
+    {
+      "date": "2011-12-12",
+      "price": 3.38,
+      "source": "eia"
+    },
+    {
+      "date": "2011-12-19",
+      "price": 3.346,
+      "source": "eia"
+    },
+    {
+      "date": "2011-12-26",
+      "price": 3.344,
+      "source": "eia"
+    },
+    {
+      "date": "2012-01-02",
+      "price": 3.395,
+      "source": "eia"
+    },
+    {
+      "date": "2012-01-09",
+      "price": 3.487,
+      "source": "eia"
+    },
+    {
+      "date": "2012-01-16",
+      "price": 3.503,
+      "source": "eia"
+    },
+    {
+      "date": "2012-01-23",
+      "price": 3.529,
+      "source": "eia"
+    },
+    {
+      "date": "2012-01-30",
+      "price": 3.592,
+      "source": "eia"
+    },
+    {
+      "date": "2012-02-06",
+      "price": 3.625,
+      "source": "eia"
+    },
+    {
+      "date": "2012-02-13",
+      "price": 3.682,
+      "source": "eia"
+    },
+    {
+      "date": "2012-02-20",
+      "price": 3.725,
+      "source": "eia"
+    },
+    {
+      "date": "2012-02-27",
+      "price": 3.805,
+      "source": "eia"
+    },
+    {
+      "date": "2012-03-05",
+      "price": 3.838,
+      "source": "eia"
+    },
+    {
+      "date": "2012-03-12",
+      "price": 3.843,
+      "source": "eia"
+    },
+    {
+      "date": "2012-03-19",
+      "price": 3.883,
+      "source": "eia"
+    },
+    {
+      "date": "2012-03-26",
+      "price": 3.942,
+      "source": "eia"
+    },
+    {
+      "date": "2012-04-02",
+      "price": 3.983,
+      "source": "eia"
+    },
+    {
+      "date": "2012-04-09",
+      "price": 4.02,
+      "source": "eia"
+    },
+    {
+      "date": "2012-04-16",
+      "price": 4.0,
+      "source": "eia"
+    },
+    {
+      "date": "2012-04-23",
+      "price": 3.958,
+      "source": "eia"
+    },
+    {
+      "date": "2012-04-30",
+      "price": 3.904,
+      "source": "eia"
+    },
+    {
+      "date": "2012-05-07",
+      "price": 3.838,
+      "source": "eia"
+    },
+    {
+      "date": "2012-05-14",
+      "price": 3.778,
+      "source": "eia"
+    },
+    {
+      "date": "2012-05-21",
+      "price": 3.713,
+      "source": "eia"
+    },
+    {
+      "date": "2012-05-28",
+      "price": 3.652,
+      "source": "eia"
+    },
+    {
+      "date": "2012-06-04",
+      "price": 3.595,
+      "source": "eia"
+    },
+    {
+      "date": "2012-06-11",
+      "price": 3.533,
+      "source": "eia"
+    },
+    {
+      "date": "2012-06-18",
+      "price": 3.484,
+      "source": "eia"
+    },
+    {
+      "date": "2012-06-25",
+      "price": 3.427,
+      "source": "eia"
+    },
+    {
+      "date": "2012-07-02",
+      "price": 3.377,
+      "source": "eia"
+    },
+    {
+      "date": "2012-07-09",
+      "price": 3.437,
+      "source": "eia"
+    },
+    {
+      "date": "2012-07-16",
+      "price": 3.483,
+      "source": "eia"
+    },
+    {
+      "date": "2012-07-23",
+      "price": 3.568,
+      "source": "eia"
+    },
+    {
+      "date": "2012-07-30",
+      "price": 3.577,
+      "source": "eia"
+    },
+    {
+      "date": "2012-08-06",
+      "price": 3.678,
+      "source": "eia"
+    },
+    {
+      "date": "2012-08-13",
+      "price": 3.758,
+      "source": "eia"
+    },
+    {
+      "date": "2012-08-20",
+      "price": 3.792,
+      "source": "eia"
+    },
+    {
+      "date": "2012-08-27",
+      "price": 3.833,
+      "source": "eia"
+    },
+    {
+      "date": "2012-09-03",
+      "price": 3.894,
+      "source": "eia"
+    },
+    {
+      "date": "2012-09-10",
+      "price": 3.911,
+      "source": "eia"
+    },
+    {
+      "date": "2012-09-17",
+      "price": 3.962,
+      "source": "eia"
+    },
+    {
+      "date": "2012-09-24",
+      "price": 3.914,
+      "source": "eia"
+    },
+    {
+      "date": "2012-10-01",
+      "price": 3.887,
+      "source": "eia"
+    },
+    {
+      "date": "2012-10-08",
+      "price": 3.884,
+      "source": "eia"
+    },
+    {
+      "date": "2012-10-15",
+      "price": 3.88,
+      "source": "eia"
+    },
+    {
+      "date": "2012-10-22",
+      "price": 3.789,
+      "source": "eia"
+    },
+    {
+      "date": "2012-10-29",
+      "price": 3.679,
+      "source": "eia"
+    },
+    {
+      "date": "2012-11-05",
+      "price": 3.625,
+      "source": "eia"
+    },
+    {
+      "date": "2012-11-12",
+      "price": 3.581,
+      "source": "eia"
+    },
+    {
+      "date": "2012-11-19",
+      "price": 3.569,
+      "source": "eia"
+    },
+    {
+      "date": "2012-11-26",
+      "price": 3.574,
+      "source": "eia"
+    },
+    {
+      "date": "2012-12-03",
+      "price": 3.547,
+      "source": "eia"
+    },
+    {
+      "date": "2012-12-10",
+      "price": 3.507,
+      "source": "eia"
+    },
+    {
+      "date": "2012-12-17",
+      "price": 3.439,
+      "source": "eia"
+    },
+    {
+      "date": "2012-12-24",
+      "price": 3.445,
+      "source": "eia"
+    },
+    {
+      "date": "2012-12-31",
+      "price": 3.492,
+      "source": "eia"
+    },
+    {
+      "date": "2013-01-07",
+      "price": 3.529,
+      "source": "eia"
+    },
+    {
+      "date": "2013-01-14",
+      "price": 3.537,
+      "source": "eia"
+    },
+    {
+      "date": "2013-01-21",
+      "price": 3.509,
+      "source": "eia"
+    },
+    {
+      "date": "2013-01-28",
+      "price": 3.537,
+      "source": "eia"
+    },
+    {
+      "date": "2013-02-04",
+      "price": 3.677,
+      "source": "eia"
+    },
+    {
+      "date": "2013-02-11",
+      "price": 3.733,
+      "source": "eia"
+    },
+    {
+      "date": "2013-02-18",
+      "price": 3.836,
+      "source": "eia"
+    },
+    {
+      "date": "2013-02-25",
+      "price": 3.885,
+      "source": "eia"
+    },
+    {
+      "date": "2013-03-04",
+      "price": 3.851,
+      "source": "eia"
+    },
+    {
+      "date": "2013-03-11",
+      "price": 3.816,
+      "source": "eia"
+    },
+    {
+      "date": "2013-03-18",
+      "price": 3.781,
+      "source": "eia"
+    },
+    {
+      "date": "2013-03-25",
+      "price": 3.753,
+      "source": "eia"
+    },
+    {
+      "date": "2013-04-01",
+      "price": 3.724,
+      "source": "eia"
+    },
+    {
+      "date": "2013-04-08",
+      "price": 3.68,
+      "source": "eia"
+    },
+    {
+      "date": "2013-04-15",
+      "price": 3.628,
+      "source": "eia"
+    },
+    {
+      "date": "2013-04-22",
+      "price": 3.575,
+      "source": "eia"
+    },
+    {
+      "date": "2013-04-29",
+      "price": 3.555,
+      "source": "eia"
+    },
+    {
+      "date": "2013-05-06",
+      "price": 3.549,
+      "source": "eia"
+    },
+    {
+      "date": "2013-05-13",
+      "price": 3.579,
+      "source": "eia"
+    },
+    {
+      "date": "2013-05-20",
+      "price": 3.583,
+      "source": "eia"
+    },
+    {
+      "date": "2013-05-27",
+      "price": 3.594,
+      "source": "eia"
+    },
+    {
+      "date": "2013-06-03",
+      "price": 3.579,
+      "source": "eia"
+    },
+    {
+      "date": "2013-06-10",
+      "price": 3.587,
+      "source": "eia"
+    },
+    {
+      "date": "2013-06-17",
+      "price": 3.599,
+      "source": "eia"
+    },
+    {
+      "date": "2013-06-24",
+      "price": 3.599,
+      "source": "eia"
+    },
+    {
+      "date": "2013-07-01",
+      "price": 3.56,
+      "source": "eia"
+    },
+    {
+      "date": "2013-07-08",
+      "price": 3.553,
+      "source": "eia"
+    },
+    {
+      "date": "2013-07-15",
+      "price": 3.681,
+      "source": "eia"
+    },
+    {
+      "date": "2013-07-22",
+      "price": 3.746,
+      "source": "eia"
+    },
+    {
+      "date": "2013-07-29",
+      "price": 3.738,
+      "source": "eia"
+    },
+    {
+      "date": "2013-08-05",
+      "price": 3.719,
+      "source": "eia"
+    },
+    {
+      "date": "2013-08-12",
+      "price": 3.664,
+      "source": "eia"
+    },
+    {
+      "date": "2013-08-19",
+      "price": 3.651,
+      "source": "eia"
+    },
+    {
+      "date": "2013-08-26",
+      "price": 3.649,
+      "source": "eia"
+    },
+    {
+      "date": "2013-09-02",
+      "price": 3.7,
+      "source": "eia"
+    },
+    {
+      "date": "2013-09-09",
+      "price": 3.682,
+      "source": "eia"
+    },
+    {
+      "date": "2013-09-16",
+      "price": 3.629,
+      "source": "eia"
+    },
+    {
+      "date": "2013-09-23",
+      "price": 3.556,
+      "source": "eia"
+    },
+    {
+      "date": "2013-09-30",
+      "price": 3.509,
+      "source": "eia"
+    },
+    {
+      "date": "2013-10-07",
+      "price": 3.461,
+      "source": "eia"
+    },
+    {
+      "date": "2013-10-14",
+      "price": 3.448,
+      "source": "eia"
+    },
+    {
+      "date": "2013-10-21",
+      "price": 3.455,
+      "source": "eia"
+    },
+    {
+      "date": "2013-10-28",
+      "price": 3.42,
+      "source": "eia"
+    },
+    {
+      "date": "2013-11-04",
+      "price": 3.391,
+      "source": "eia"
+    },
+    {
+      "date": "2013-11-11",
+      "price": 3.345,
+      "source": "eia"
+    },
+    {
+      "date": "2013-11-18",
+      "price": 3.381,
+      "source": "eia"
+    },
+    {
+      "date": "2013-11-25",
+      "price": 3.484,
+      "source": "eia"
+    },
+    {
+      "date": "2013-12-02",
+      "price": 3.488,
+      "source": "eia"
+    },
+    {
+      "date": "2013-12-09",
+      "price": 3.482,
+      "source": "eia"
+    },
+    {
+      "date": "2013-12-16",
+      "price": 3.472,
+      "source": "eia"
+    },
+    {
+      "date": "2013-12-23",
+      "price": 3.48,
+      "source": "eia"
+    },
+    {
+      "date": "2013-12-30",
+      "price": 3.511,
+      "source": "eia"
+    },
+    {
+      "date": "2014-01-06",
+      "price": 3.538,
+      "source": "eia"
+    },
+    {
+      "date": "2014-01-13",
+      "price": 3.512,
+      "source": "eia"
+    },
+    {
+      "date": "2014-01-20",
+      "price": 3.491,
+      "source": "eia"
+    },
+    {
+      "date": "2014-01-27",
+      "price": 3.48,
+      "source": "eia"
+    },
+    {
+      "date": "2014-02-03",
+      "price": 3.463,
+      "source": "eia"
+    },
+    {
+      "date": "2014-02-10",
+      "price": 3.453,
+      "source": "eia"
+    },
+    {
+      "date": "2014-02-17",
+      "price": 3.512,
+      "source": "eia"
+    },
+    {
+      "date": "2014-02-24",
+      "price": 3.564,
+      "source": "eia"
+    },
+    {
+      "date": "2014-03-03",
+      "price": 3.573,
+      "source": "eia"
+    },
+    {
+      "date": "2014-03-10",
+      "price": 3.59,
+      "source": "eia"
+    },
+    {
+      "date": "2014-03-17",
+      "price": 3.619,
+      "source": "eia"
+    },
+    {
+      "date": "2014-03-24",
+      "price": 3.625,
+      "source": "eia"
+    },
+    {
+      "date": "2014-03-31",
+      "price": 3.653,
+      "source": "eia"
+    },
+    {
+      "date": "2014-04-07",
+      "price": 3.678,
+      "source": "eia"
+    },
+    {
+      "date": "2014-04-14",
+      "price": 3.707,
+      "source": "eia"
+    },
+    {
+      "date": "2014-04-21",
+      "price": 3.76,
+      "source": "eia"
+    },
+    {
+      "date": "2014-04-28",
+      "price": 3.803,
+      "source": "eia"
+    },
+    {
+      "date": "2014-05-05",
+      "price": 3.798,
+      "source": "eia"
+    },
+    {
+      "date": "2014-05-12",
+      "price": 3.779,
+      "source": "eia"
+    },
+    {
+      "date": "2014-05-19",
+      "price": 3.763,
+      "source": "eia"
+    },
+    {
+      "date": "2014-05-26",
+      "price": 3.759,
+      "source": "eia"
+    },
+    {
+      "date": "2014-06-02",
+      "price": 3.747,
+      "source": "eia"
+    },
+    {
+      "date": "2014-06-09",
+      "price": 3.736,
+      "source": "eia"
+    },
+    {
+      "date": "2014-06-16",
+      "price": 3.741,
+      "source": "eia"
+    },
+    {
+      "date": "2014-06-23",
+      "price": 3.768,
+      "source": "eia"
+    },
+    {
+      "date": "2014-06-30",
+      "price": 3.778,
+      "source": "eia"
+    },
+    {
+      "date": "2014-07-07",
+      "price": 3.761,
+      "source": "eia"
+    },
+    {
+      "date": "2014-07-14",
+      "price": 3.731,
+      "source": "eia"
+    },
+    {
+      "date": "2014-07-21",
+      "price": 3.69,
+      "source": "eia"
+    },
+    {
+      "date": "2014-07-28",
+      "price": 3.646,
+      "source": "eia"
+    },
+    {
+      "date": "2014-08-04",
+      "price": 3.609,
+      "source": "eia"
+    },
+    {
+      "date": "2014-08-11",
+      "price": 3.572,
+      "source": "eia"
+    },
+    {
+      "date": "2014-08-18",
+      "price": 3.54,
+      "source": "eia"
+    },
+    {
+      "date": "2014-08-25",
+      "price": 3.508,
+      "source": "eia"
+    },
+    {
+      "date": "2014-09-01",
+      "price": 3.514,
+      "source": "eia"
+    },
+    {
+      "date": "2014-09-08",
+      "price": 3.512,
+      "source": "eia"
+    },
+    {
+      "date": "2014-09-15",
+      "price": 3.482,
+      "source": "eia"
+    },
+    {
+      "date": "2014-09-22",
+      "price": 3.45,
+      "source": "eia"
+    },
+    {
+      "date": "2014-09-29",
+      "price": 3.444,
+      "source": "eia"
+    },
+    {
+      "date": "2014-10-06",
+      "price": 3.421,
+      "source": "eia"
+    },
+    {
+      "date": "2014-10-13",
+      "price": 3.345,
+      "source": "eia"
+    },
+    {
+      "date": "2014-10-20",
+      "price": 3.248,
+      "source": "eia"
+    },
+    {
+      "date": "2014-10-27",
+      "price": 3.163,
+      "source": "eia"
+    },
+    {
+      "date": "2014-11-03",
+      "price": 3.106,
+      "source": "eia"
+    },
+    {
+      "date": "2014-11-10",
+      "price": 3.06,
+      "source": "eia"
+    },
+    {
+      "date": "2014-11-17",
+      "price": 3.022,
+      "source": "eia"
+    },
+    {
+      "date": "2014-11-24",
+      "price": 2.968,
+      "source": "eia"
+    },
+    {
+      "date": "2014-12-01",
+      "price": 2.935,
+      "source": "eia"
+    },
+    {
+      "date": "2014-12-08",
+      "price": 2.853,
+      "source": "eia"
+    },
+    {
+      "date": "2014-12-15",
+      "price": 2.753,
+      "source": "eia"
+    },
+    {
+      "date": "2014-12-22",
+      "price": 2.641,
+      "source": "eia"
+    },
+    {
+      "date": "2014-12-29",
+      "price": 2.556,
+      "source": "eia"
+    },
+    {
+      "date": "2015-01-05",
+      "price": 2.474,
+      "source": "eia"
+    },
+    {
+      "date": "2015-01-12",
+      "price": 2.369,
+      "source": "eia"
+    },
+    {
+      "date": "2015-01-19",
+      "price": 2.274,
+      "source": "eia"
+    },
+    {
+      "date": "2015-01-26",
+      "price": 2.22,
+      "source": "eia"
+    },
+    {
+      "date": "2015-02-02",
+      "price": 2.203,
+      "source": "eia"
+    },
+    {
+      "date": "2015-02-09",
+      "price": 2.304,
+      "source": "eia"
+    },
+    {
+      "date": "2015-02-16",
+      "price": 2.366,
+      "source": "eia"
+    },
+    {
+      "date": "2015-02-23",
+      "price": 2.414,
+      "source": "eia"
+    },
+    {
+      "date": "2015-03-02",
+      "price": 2.496,
+      "source": "eia"
+    },
+    {
+      "date": "2015-03-09",
+      "price": 2.529,
+      "source": "eia"
+    },
+    {
+      "date": "2015-03-16",
+      "price": 2.51,
+      "source": "eia"
+    },
+    {
+      "date": "2015-03-23",
+      "price": 2.473,
+      "source": "eia"
+    },
+    {
+      "date": "2015-03-30",
+      "price": 2.484,
+      "source": "eia"
+    },
+    {
+      "date": "2015-04-06",
+      "price": 2.466,
+      "source": "eia"
+    },
+    {
+      "date": "2015-04-13",
+      "price": 2.47,
+      "source": "eia"
+    },
+    {
+      "date": "2015-04-20",
+      "price": 2.553,
+      "source": "eia"
+    },
+    {
+      "date": "2015-04-27",
+      "price": 2.627,
+      "source": "eia"
+    },
+    {
+      "date": "2015-05-04",
+      "price": 2.686,
+      "source": "eia"
+    },
+    {
+      "date": "2015-05-11",
+      "price": 2.717,
+      "source": "eia"
+    },
+    {
+      "date": "2015-05-18",
+      "price": 2.736,
+      "source": "eia"
+    },
+    {
+      "date": "2015-05-25",
+      "price": 2.773,
+      "source": "eia"
+    },
+    {
+      "date": "2015-06-01",
+      "price": 2.779,
+      "source": "eia"
+    },
+    {
+      "date": "2015-06-08",
+      "price": 2.798,
+      "source": "eia"
+    },
+    {
+      "date": "2015-06-15",
+      "price": 2.849,
+      "source": "eia"
+    },
+    {
+      "date": "2015-06-22",
+      "price": 2.837,
+      "source": "eia"
+    },
+    {
+      "date": "2015-06-29",
+      "price": 2.836,
+      "source": "eia"
+    },
+    {
+      "date": "2015-07-06",
+      "price": 2.827,
+      "source": "eia"
+    },
+    {
+      "date": "2015-07-13",
+      "price": 2.816,
+      "source": "eia"
+    },
+    {
+      "date": "2015-07-20",
+      "price": 2.779,
+      "source": "eia"
+    },
+    {
+      "date": "2015-07-27",
+      "price": 2.741,
+      "source": "eia"
+    },
+    {
+      "date": "2015-08-03",
+      "price": 2.696,
+      "source": "eia"
+    },
+    {
+      "date": "2015-08-10",
+      "price": 2.647,
+      "source": "eia"
+    },
+    {
+      "date": "2015-08-17",
+      "price": 2.618,
+      "source": "eia"
+    },
+    {
+      "date": "2015-08-24",
+      "price": 2.559,
+      "source": "eia"
+    },
+    {
+      "date": "2015-08-31",
+      "price": 2.473,
+      "source": "eia"
+    },
+    {
+      "date": "2015-09-07",
+      "price": 2.438,
+      "source": "eia"
+    },
+    {
+      "date": "2015-09-14",
+      "price": 2.389,
+      "source": "eia"
+    },
+    {
+      "date": "2015-09-21",
+      "price": 2.337,
+      "source": "eia"
+    },
+    {
+      "date": "2015-09-28",
+      "price": 2.321,
+      "source": "eia"
+    },
+    {
+      "date": "2015-10-05",
+      "price": 2.309,
+      "source": "eia"
+    },
+    {
+      "date": "2015-10-12",
+      "price": 2.33,
+      "source": "eia"
+    },
+    {
+      "date": "2015-10-19",
+      "price": 2.299,
+      "source": "eia"
+    },
+    {
+      "date": "2015-10-26",
+      "price": 2.264,
+      "source": "eia"
+    },
+    {
+      "date": "2015-11-02",
+      "price": 2.25,
+      "source": "eia"
+    },
+    {
+      "date": "2015-11-09",
+      "price": 2.299,
+      "source": "eia"
+    },
+    {
+      "date": "2015-11-16",
+      "price": 2.291,
+      "source": "eia"
+    },
+    {
+      "date": "2015-11-23",
+      "price": 2.243,
+      "source": "eia"
+    },
+    {
+      "date": "2015-11-30",
+      "price": 2.223,
+      "source": "eia"
+    },
+    {
+      "date": "2015-12-07",
+      "price": 2.21,
+      "source": "eia"
+    },
+    {
+      "date": "2015-12-14",
+      "price": 2.182,
+      "source": "eia"
+    },
+    {
+      "date": "2015-12-21",
+      "price": 2.173,
+      "source": "eia"
+    },
+    {
+      "date": "2015-12-28",
+      "price": 2.154,
+      "source": "eia"
+    },
+    {
+      "date": "2016-01-04",
+      "price": 2.138,
+      "source": "eia"
+    },
+    {
+      "date": "2016-01-11",
+      "price": 2.11,
+      "source": "eia"
+    },
+    {
+      "date": "2016-01-18",
+      "price": 2.045,
+      "source": "eia"
+    },
+    {
+      "date": "2016-01-25",
+      "price": 2.006,
+      "source": "eia"
+    },
+    {
+      "date": "2016-02-01",
+      "price": 1.977,
+      "source": "eia"
+    },
+    {
+      "date": "2016-02-08",
+      "price": 1.936,
+      "source": "eia"
+    },
+    {
+      "date": "2016-02-15",
+      "price": 1.898,
+      "source": "eia"
+    },
+    {
+      "date": "2016-02-22",
+      "price": 1.876,
+      "source": "eia"
+    },
+    {
+      "date": "2016-02-29",
+      "price": 1.88,
+      "source": "eia"
+    },
+    {
+      "date": "2016-03-07",
+      "price": 1.918,
+      "source": "eia"
+    },
+    {
+      "date": "2016-03-14",
+      "price": 2.02,
+      "source": "eia"
+    },
+    {
+      "date": "2016-03-21",
+      "price": 2.075,
+      "source": "eia"
+    },
+    {
+      "date": "2016-03-28",
+      "price": 2.155,
+      "source": "eia"
+    },
+    {
+      "date": "2016-04-04",
+      "price": 2.165,
+      "source": "eia"
+    },
+    {
+      "date": "2016-04-11",
+      "price": 2.168,
+      "source": "eia"
+    },
+    {
+      "date": "2016-04-18",
+      "price": 2.23,
+      "source": "eia"
+    },
+    {
+      "date": "2016-04-25",
+      "price": 2.258,
+      "source": "eia"
+    },
+    {
+      "date": "2016-05-02",
+      "price": 2.346,
+      "source": "eia"
+    },
+    {
+      "date": "2016-05-09",
+      "price": 2.35,
+      "source": "eia"
+    },
+    {
+      "date": "2016-05-16",
+      "price": 2.35,
+      "source": "eia"
+    },
+    {
+      "date": "2016-05-23",
+      "price": 2.384,
+      "source": "eia"
+    },
+    {
+      "date": "2016-05-30",
+      "price": 2.42,
+      "source": "eia"
+    },
+    {
+      "date": "2016-06-06",
+      "price": 2.447,
+      "source": "eia"
+    },
+    {
+      "date": "2016-06-13",
+      "price": 2.441,
+      "source": "eia"
+    },
+    {
+      "date": "2016-06-20",
+      "price": 2.412,
+      "source": "eia"
+    },
+    {
+      "date": "2016-06-27",
+      "price": 2.392,
+      "source": "eia"
+    },
+    {
+      "date": "2016-07-04",
+      "price": 2.369,
+      "source": "eia"
+    },
+    {
+      "date": "2016-07-11",
+      "price": 2.336,
+      "source": "eia"
+    },
+    {
+      "date": "2016-07-18",
+      "price": 2.296,
+      "source": "eia"
+    },
+    {
+      "date": "2016-07-25",
+      "price": 2.263,
+      "source": "eia"
+    },
+    {
+      "date": "2016-08-01",
+      "price": 2.244,
+      "source": "eia"
+    },
+    {
+      "date": "2016-08-08",
+      "price": 2.21,
+      "source": "eia"
+    },
+    {
+      "date": "2016-08-15",
+      "price": 2.221,
+      "source": "eia"
+    },
+    {
+      "date": "2016-08-22",
+      "price": 2.27,
+      "source": "eia"
+    },
+    {
+      "date": "2016-08-29",
+      "price": 2.314,
+      "source": "eia"
+    },
+    {
+      "date": "2016-09-05",
+      "price": 2.314,
+      "source": "eia"
+    },
+    {
+      "date": "2016-09-12",
+      "price": 2.291,
+      "source": "eia"
+    },
+    {
+      "date": "2016-09-19",
+      "price": 2.334,
+      "source": "eia"
+    },
+    {
+      "date": "2016-09-26",
+      "price": 2.345,
+      "source": "eia"
+    },
+    {
+      "date": "2016-10-03",
+      "price": 2.347,
+      "source": "eia"
+    },
+    {
+      "date": "2016-10-10",
+      "price": 2.372,
+      "source": "eia"
+    },
+    {
+      "date": "2016-10-17",
+      "price": 2.38,
+      "source": "eia"
+    },
+    {
+      "date": "2016-10-24",
+      "price": 2.374,
+      "source": "eia"
+    },
+    {
+      "date": "2016-10-31",
+      "price": 2.361,
+      "source": "eia"
+    },
+    {
+      "date": "2016-11-07",
+      "price": 2.384,
+      "source": "eia"
+    },
+    {
+      "date": "2016-11-14",
+      "price": 2.362,
+      "source": "eia"
+    },
+    {
+      "date": "2016-11-21",
+      "price": 2.318,
+      "source": "eia"
+    },
+    {
+      "date": "2016-11-28",
+      "price": 2.312,
+      "source": "eia"
+    },
+    {
+      "date": "2016-12-05",
+      "price": 2.376,
+      "source": "eia"
+    },
+    {
+      "date": "2016-12-12",
+      "price": 2.403,
+      "source": "eia"
+    },
+    {
+      "date": "2016-12-19",
+      "price": 2.433,
+      "source": "eia"
+    },
+    {
+      "date": "2016-12-26",
+      "price": 2.456,
+      "source": "eia"
+    },
+    {
+      "date": "2017-01-02",
+      "price": 2.528,
+      "source": "eia"
+    },
+    {
+      "date": "2017-01-09",
+      "price": 2.537,
+      "source": "eia"
+    },
+    {
+      "date": "2017-01-16",
+      "price": 2.516,
+      "source": "eia"
+    },
+    {
+      "date": "2017-01-23",
+      "price": 2.491,
+      "source": "eia"
+    },
+    {
+      "date": "2017-01-30",
+      "price": 2.466,
+      "source": "eia"
+    },
+    {
+      "date": "2017-02-06",
+      "price": 2.447,
+      "source": "eia"
+    },
+    {
+      "date": "2017-02-13",
+      "price": 2.439,
+      "source": "eia"
+    },
+    {
+      "date": "2017-02-20",
+      "price": 2.439,
+      "source": "eia"
+    },
+    {
+      "date": "2017-02-27",
+      "price": 2.433,
+      "source": "eia"
+    },
+    {
+      "date": "2017-03-06",
+      "price": 2.433,
+      "source": "eia"
+    },
+    {
+      "date": "2017-03-13",
+      "price": 2.421,
+      "source": "eia"
+    },
+    {
+      "date": "2017-03-20",
+      "price": 2.414,
+      "source": "eia"
+    },
+    {
+      "date": "2017-03-27",
+      "price": 2.423,
+      "source": "eia"
+    },
+    {
+      "date": "2017-04-03",
+      "price": 2.45,
+      "source": "eia"
+    },
+    {
+      "date": "2017-04-10",
+      "price": 2.519,
+      "source": "eia"
+    },
+    {
+      "date": "2017-04-17",
+      "price": 2.541,
+      "source": "eia"
+    },
+    {
+      "date": "2017-04-24",
+      "price": 2.559,
+      "source": "eia"
+    },
+    {
+      "date": "2017-05-01",
+      "price": 2.531,
+      "source": "eia"
+    },
+    {
+      "date": "2017-05-08",
+      "price": 2.493,
+      "source": "eia"
+    },
+    {
+      "date": "2017-05-15",
+      "price": 2.467,
+      "source": "eia"
+    },
+    {
+      "date": "2017-05-22",
+      "price": 2.474,
+      "source": "eia"
+    },
+    {
+      "date": "2017-05-29",
+      "price": 2.486,
+      "source": "eia"
+    },
+    {
+      "date": "2017-06-05",
+      "price": 2.493,
+      "source": "eia"
+    },
+    {
+      "date": "2017-06-12",
+      "price": 2.458,
+      "source": "eia"
+    },
+    {
+      "date": "2017-06-19",
+      "price": 2.417,
+      "source": "eia"
+    },
+    {
+      "date": "2017-06-26",
+      "price": 2.379,
+      "source": "eia"
+    },
+    {
+      "date": "2017-07-03",
+      "price": 2.354,
+      "source": "eia"
+    },
+    {
+      "date": "2017-07-10",
+      "price": 2.372,
+      "source": "eia"
+    },
+    {
+      "date": "2017-07-17",
+      "price": 2.365,
+      "source": "eia"
+    },
+    {
+      "date": "2017-07-24",
+      "price": 2.411,
+      "source": "eia"
+    },
+    {
+      "date": "2017-07-31",
+      "price": 2.453,
+      "source": "eia"
+    },
+    {
+      "date": "2017-08-07",
+      "price": 2.481,
+      "source": "eia"
+    },
+    {
+      "date": "2017-08-14",
+      "price": 2.474,
+      "source": "eia"
+    },
+    {
+      "date": "2017-08-21",
+      "price": 2.451,
+      "source": "eia"
+    },
+    {
+      "date": "2017-08-28",
+      "price": 2.485,
+      "source": "eia"
+    },
+    {
+      "date": "2017-09-04",
+      "price": 2.864,
+      "source": "eia"
+    },
+    {
+      "date": "2017-09-11",
+      "price": 2.871,
+      "source": "eia"
+    },
+    {
+      "date": "2017-09-18",
+      "price": 2.833,
+      "source": "eia"
+    },
+    {
+      "date": "2017-09-25",
+      "price": 2.785,
+      "source": "eia"
+    },
+    {
+      "date": "2017-10-02",
+      "price": 2.737,
+      "source": "eia"
+    },
+    {
+      "date": "2017-10-09",
+      "price": 2.669,
+      "source": "eia"
+    },
+    {
+      "date": "2017-10-16",
+      "price": 2.619,
+      "source": "eia"
+    },
+    {
+      "date": "2017-10-23",
+      "price": 2.596,
+      "source": "eia"
+    },
+    {
+      "date": "2017-10-30",
+      "price": 2.595,
+      "source": "eia"
+    },
+    {
+      "date": "2017-11-06",
+      "price": 2.623,
+      "source": "eia"
+    },
+    {
+      "date": "2017-11-13",
+      "price": 2.692,
+      "source": "eia"
+    },
+    {
+      "date": "2017-11-20",
+      "price": 2.672,
+      "source": "eia"
+    },
+    {
+      "date": "2017-11-27",
+      "price": 2.655,
+      "source": "eia"
+    },
+    {
+      "date": "2017-12-04",
+      "price": 2.638,
+      "source": "eia"
+    },
+    {
+      "date": "2017-12-11",
+      "price": 2.614,
+      "source": "eia"
+    },
+    {
+      "date": "2017-12-18",
+      "price": 2.588,
+      "source": "eia"
+    },
+    {
+      "date": "2017-12-25",
+      "price": 2.576,
+      "source": "eia"
+    },
+    {
+      "date": "2018-01-01",
+      "price": 2.641,
+      "source": "eia"
+    },
+    {
+      "date": "2018-01-08",
+      "price": 2.65,
+      "source": "eia"
+    },
+    {
+      "date": "2018-01-15",
+      "price": 2.666,
+      "source": "eia"
+    },
+    {
+      "date": "2018-01-22",
+      "price": 2.705,
+      "source": "eia"
+    },
+    {
+      "date": "2018-01-29",
+      "price": 2.735,
+      "source": "eia"
+    },
+    {
+      "date": "2018-02-05",
+      "price": 2.761,
+      "source": "eia"
+    },
+    {
+      "date": "2018-02-12",
+      "price": 2.754,
+      "source": "eia"
+    },
+    {
+      "date": "2018-02-19",
+      "price": 2.709,
+      "source": "eia"
+    },
+    {
+      "date": "2018-02-26",
+      "price": 2.68,
+      "source": "eia"
+    },
+    {
+      "date": "2018-03-05",
+      "price": 2.685,
+      "source": "eia"
+    },
+    {
+      "date": "2018-03-12",
+      "price": 2.661,
+      "source": "eia"
+    },
+    {
+      "date": "2018-03-19",
+      "price": 2.687,
+      "source": "eia"
+    },
+    {
+      "date": "2018-03-26",
+      "price": 2.74,
+      "source": "eia"
+    },
+    {
+      "date": "2018-04-02",
+      "price": 2.795,
+      "source": "eia"
+    },
+    {
+      "date": "2018-04-09",
+      "price": 2.786,
+      "source": "eia"
+    },
+    {
+      "date": "2018-04-16",
+      "price": 2.833,
+      "source": "eia"
+    },
+    {
+      "date": "2018-04-23",
+      "price": 2.897,
+      "source": "eia"
+    },
+    {
+      "date": "2018-04-30",
+      "price": 2.935,
+      "source": "eia"
+    },
+    {
+      "date": "2018-05-07",
+      "price": 2.938,
+      "source": "eia"
+    },
+    {
+      "date": "2018-05-14",
+      "price": 2.885,
+      "source": "eia"
+    },
+    {
+      "date": "2018-05-21",
+      "price": 2.927,
+      "source": "eia"
+    },
+    {
+      "date": "2018-05-28",
+      "price": 2.976,
+      "source": "eia"
+    },
+    {
+      "date": "2018-06-04",
+      "price": 2.947,
+      "source": "eia"
+    },
+    {
+      "date": "2018-06-11",
+      "price": 2.908,
+      "source": "eia"
+    },
+    {
+      "date": "2018-06-18",
+      "price": 2.868,
+      "source": "eia"
+    },
+    {
+      "date": "2018-06-25",
+      "price": 2.83,
+      "source": "eia"
+    },
+    {
+      "date": "2018-07-02",
+      "price": 2.838,
+      "source": "eia"
+    },
+    {
+      "date": "2018-07-09",
+      "price": 2.849,
+      "source": "eia"
+    },
+    {
+      "date": "2018-07-16",
+      "price": 2.87,
+      "source": "eia"
+    },
+    {
+      "date": "2018-07-23",
+      "price": 2.845,
+      "source": "eia"
+    },
+    {
+      "date": "2018-07-30",
+      "price": 2.86,
+      "source": "eia"
+    },
+    {
+      "date": "2018-08-06",
+      "price": 2.871,
+      "source": "eia"
+    },
+    {
+      "date": "2018-08-13",
+      "price": 2.872,
+      "source": "eia"
+    },
+    {
+      "date": "2018-08-20",
+      "price": 2.846,
+      "source": "eia"
+    },
+    {
+      "date": "2018-08-27",
+      "price": 2.834,
+      "source": "eia"
+    },
+    {
+      "date": "2018-09-03",
+      "price": 2.845,
+      "source": "eia"
+    },
+    {
+      "date": "2018-09-10",
+      "price": 2.856,
+      "source": "eia"
+    },
+    {
+      "date": "2018-09-17",
+      "price": 2.857,
+      "source": "eia"
+    },
+    {
+      "date": "2018-09-24",
+      "price": 2.843,
+      "source": "eia"
+    },
+    {
+      "date": "2018-10-01",
+      "price": 2.865,
+      "source": "eia"
+    },
+    {
+      "date": "2018-10-08",
+      "price": 2.898,
+      "source": "eia"
+    },
+    {
+      "date": "2018-10-15",
+      "price": 2.88,
+      "source": "eia"
+    },
+    {
+      "date": "2018-10-22",
+      "price": 2.849,
+      "source": "eia"
+    },
+    {
+      "date": "2018-10-29",
+      "price": 2.807,
+      "source": "eia"
+    },
+    {
+      "date": "2018-11-05",
+      "price": 2.754,
+      "source": "eia"
+    },
+    {
+      "date": "2018-11-12",
+      "price": 2.696,
+      "source": "eia"
+    },
+    {
+      "date": "2018-11-19",
+      "price": 2.629,
+      "source": "eia"
+    },
+    {
+      "date": "2018-11-26",
+      "price": 2.573,
+      "source": "eia"
+    },
+    {
+      "date": "2018-12-03",
+      "price": 2.498,
+      "source": "eia"
+    },
+    {
+      "date": "2018-12-10",
+      "price": 2.459,
+      "source": "eia"
+    },
+    {
+      "date": "2018-12-17",
+      "price": 2.428,
+      "source": "eia"
+    },
+    {
+      "date": "2018-12-24",
+      "price": 2.373,
+      "source": "eia"
+    },
+    {
+      "date": "2018-12-31",
+      "price": 2.328,
+      "source": "eia"
+    },
+    {
+      "date": "2019-01-07",
+      "price": 2.293,
+      "source": "eia"
+    },
+    {
+      "date": "2019-01-14",
+      "price": 2.295,
+      "source": "eia"
+    },
+    {
+      "date": "2019-01-21",
+      "price": 2.318,
+      "source": "eia"
+    },
+    {
+      "date": "2019-01-28",
+      "price": 2.324,
+      "source": "eia"
+    },
+    {
+      "date": "2019-02-04",
+      "price": 2.319,
+      "source": "eia"
+    },
+    {
+      "date": "2019-02-11",
+      "price": 2.311,
+      "source": "eia"
+    },
+    {
+      "date": "2019-02-18",
+      "price": 2.34,
+      "source": "eia"
+    },
+    {
+      "date": "2019-02-25",
+      "price": 2.422,
+      "source": "eia"
+    },
+    {
+      "date": "2019-03-04",
+      "price": 2.457,
+      "source": "eia"
+    },
+    {
+      "date": "2019-03-11",
+      "price": 2.501,
+      "source": "eia"
+    },
+    {
+      "date": "2019-03-18",
+      "price": 2.588,
+      "source": "eia"
+    },
+    {
+      "date": "2019-03-25",
+      "price": 2.637,
+      "source": "eia"
+    },
+    {
+      "date": "2019-04-01",
+      "price": 2.688,
+      "source": "eia"
+    },
+    {
+      "date": "2019-04-08",
+      "price": 2.722,
+      "source": "eia"
+    },
+    {
+      "date": "2019-04-15",
+      "price": 2.788,
+      "source": "eia"
+    },
+    {
+      "date": "2019-04-22",
+      "price": 2.803,
+      "source": "eia"
+    },
+    {
+      "date": "2019-04-29",
+      "price": 2.85,
+      "source": "eia"
+    },
+    {
+      "date": "2019-05-06",
+      "price": 2.863,
+      "source": "eia"
+    },
+    {
+      "date": "2019-05-13",
+      "price": 2.826,
+      "source": "eia"
+    },
+    {
+      "date": "2019-05-20",
+      "price": 2.796,
+      "source": "eia"
+    },
+    {
+      "date": "2019-05-27",
+      "price": 2.77,
+      "source": "eia"
+    },
+    {
+      "date": "2019-06-03",
+      "price": 2.737,
+      "source": "eia"
+    },
+    {
+      "date": "2019-06-10",
+      "price": 2.695,
+      "source": "eia"
+    },
+    {
+      "date": "2019-06-17",
+      "price": 2.633,
+      "source": "eia"
+    },
+    {
+      "date": "2019-06-24",
+      "price": 2.617,
+      "source": "eia"
+    },
+    {
+      "date": "2019-07-01",
+      "price": 2.699,
+      "source": "eia"
+    },
+    {
+      "date": "2019-07-08",
+      "price": 2.733,
+      "source": "eia"
+    },
+    {
+      "date": "2019-07-15",
+      "price": 2.752,
+      "source": "eia"
+    },
+    {
+      "date": "2019-07-22",
+      "price": 2.745,
+      "source": "eia"
+    },
+    {
+      "date": "2019-07-29",
+      "price": 2.703,
+      "source": "eia"
+    },
+    {
+      "date": "2019-08-05",
+      "price": 2.673,
+      "source": "eia"
+    },
+    {
+      "date": "2019-08-12",
+      "price": 2.629,
+      "source": "eia"
+    },
+    {
+      "date": "2019-08-19",
+      "price": 2.594,
+      "source": "eia"
+    },
+    {
+      "date": "2019-08-26",
+      "price": 2.561,
+      "source": "eia"
+    },
+    {
+      "date": "2019-09-02",
+      "price": 2.557,
+      "source": "eia"
+    },
+    {
+      "date": "2019-09-09",
+      "price": 2.539,
+      "source": "eia"
+    },
+    {
+      "date": "2019-09-16",
+      "price": 2.53,
+      "source": "eia"
+    },
+    {
+      "date": "2019-09-23",
+      "price": 2.615,
+      "source": "eia"
+    },
+    {
+      "date": "2019-09-30",
+      "price": 2.584,
+      "source": "eia"
+    },
+    {
+      "date": "2019-10-07",
+      "price": 2.564,
+      "source": "eia"
+    },
+    {
+      "date": "2019-10-14",
+      "price": 2.54,
+      "source": "eia"
+    },
+    {
+      "date": "2019-10-21",
+      "price": 2.559,
+      "source": "eia"
+    },
+    {
+      "date": "2019-10-28",
+      "price": 2.531,
+      "source": "eia"
+    },
+    {
+      "date": "2019-11-04",
+      "price": 2.553,
+      "source": "eia"
+    },
+    {
+      "date": "2019-11-11",
+      "price": 2.552,
+      "source": "eia"
+    },
+    {
+      "date": "2019-11-18",
+      "price": 2.53,
+      "source": "eia"
+    },
+    {
+      "date": "2019-11-25",
+      "price": 2.538,
+      "source": "eia"
+    },
+    {
+      "date": "2019-12-02",
+      "price": 2.554,
+      "source": "eia"
+    },
+    {
+      "date": "2019-12-09",
+      "price": 2.554,
+      "source": "eia"
+    },
+    {
+      "date": "2019-12-16",
+      "price": 2.535,
+      "source": "eia"
+    },
+    {
+      "date": "2019-12-23",
+      "price": 2.54,
+      "source": "eia"
+    },
+    {
+      "date": "2019-12-30",
+      "price": 2.576,
+      "source": "eia"
+    },
+    {
+      "date": "2020-01-06",
+      "price": 2.613,
+      "source": "eia"
+    },
+    {
+      "date": "2020-01-13",
+      "price": 2.595,
+      "source": "eia"
+    },
+    {
+      "date": "2020-01-20",
+      "price": 2.572,
+      "source": "eia"
+    },
+    {
+      "date": "2020-01-27",
+      "price": 2.527,
+      "source": "eia"
+    },
+    {
+      "date": "2020-02-03",
+      "price": 2.472,
+      "source": "eia"
+    },
+    {
+      "date": "2020-02-10",
+      "price": 2.448,
+      "source": "eia"
+    },
+    {
+      "date": "2020-02-17",
+      "price": 2.443,
+      "source": "eia"
+    },
+    {
+      "date": "2020-02-24",
+      "price": 2.478,
+      "source": "eia"
+    },
+    {
+      "date": "2020-03-02",
+      "price": 2.43,
+      "source": "eia"
+    },
+    {
+      "date": "2020-03-09",
+      "price": 2.382,
+      "source": "eia"
+    },
+    {
+      "date": "2020-03-16",
+      "price": 2.274,
+      "source": "eia"
+    },
+    {
+      "date": "2020-03-23",
+      "price": 2.166,
+      "source": "eia"
+    },
+    {
+      "date": "2020-03-30",
+      "price": 2.064,
+      "source": "eia"
+    },
+    {
+      "date": "2020-04-06",
+      "price": 2.006,
+      "source": "eia"
+    },
+    {
+      "date": "2020-04-13",
+      "price": 1.962,
+      "source": "eia"
+    },
+    {
+      "date": "2020-04-20",
+      "price": 1.929,
+      "source": "eia"
+    },
+    {
+      "date": "2020-04-27",
+      "price": 1.894,
+      "source": "eia"
+    },
+    {
+      "date": "2020-05-04",
+      "price": 1.878,
+      "source": "eia"
+    },
+    {
+      "date": "2020-05-11",
+      "price": 1.898,
+      "source": "eia"
+    },
+    {
+      "date": "2020-05-18",
+      "price": 1.917,
+      "source": "eia"
+    },
+    {
+      "date": "2020-05-25",
+      "price": 1.987,
+      "source": "eia"
+    },
+    {
+      "date": "2020-06-01",
+      "price": 1.995,
+      "source": "eia"
+    },
+    {
+      "date": "2020-06-08",
+      "price": 2.029,
+      "source": "eia"
+    },
+    {
+      "date": "2020-06-15",
+      "price": 2.101,
+      "source": "eia"
+    },
+    {
+      "date": "2020-06-22",
+      "price": 2.129,
+      "source": "eia"
+    },
+    {
+      "date": "2020-06-29",
+      "price": 2.164,
+      "source": "eia"
+    },
+    {
+      "date": "2020-07-06",
+      "price": 2.179,
+      "source": "eia"
+    },
+    {
+      "date": "2020-07-13",
+      "price": 2.19,
+      "source": "eia"
+    },
+    {
+      "date": "2020-07-20",
+      "price": 2.184,
+      "source": "eia"
+    },
+    {
+      "date": "2020-07-27",
+      "price": 2.172,
+      "source": "eia"
+    },
+    {
+      "date": "2020-08-03",
+      "price": 2.183,
+      "source": "eia"
+    },
+    {
+      "date": "2020-08-10",
+      "price": 2.171,
+      "source": "eia"
+    },
+    {
+      "date": "2020-08-17",
+      "price": 2.165,
+      "source": "eia"
+    },
+    {
+      "date": "2020-08-24",
+      "price": 2.174,
+      "source": "eia"
+    },
+    {
+      "date": "2020-08-31",
+      "price": 2.233,
+      "source": "eia"
+    },
+    {
+      "date": "2020-09-07",
+      "price": 2.244,
+      "source": "eia"
+    },
+    {
+      "date": "2020-09-14",
+      "price": 2.216,
+      "source": "eia"
+    },
+    {
+      "date": "2020-09-21",
+      "price": 2.192,
+      "source": "eia"
+    },
+    {
+      "date": "2020-09-28",
+      "price": 2.186,
+      "source": "eia"
+    },
+    {
+      "date": "2020-10-05",
+      "price": 2.208,
+      "source": "eia"
+    },
+    {
+      "date": "2020-10-12",
+      "price": 2.209,
+      "source": "eia"
+    },
+    {
+      "date": "2020-10-19",
+      "price": 2.196,
+      "source": "eia"
+    },
+    {
+      "date": "2020-10-26",
+      "price": 2.173,
+      "source": "eia"
+    },
+    {
+      "date": "2020-11-02",
+      "price": 2.149,
+      "source": "eia"
+    },
+    {
+      "date": "2020-11-09",
+      "price": 2.127,
+      "source": "eia"
+    },
+    {
+      "date": "2020-11-16",
+      "price": 2.152,
+      "source": "eia"
+    },
+    {
+      "date": "2020-11-23",
+      "price": 2.152,
+      "source": "eia"
+    },
+    {
+      "date": "2020-11-30",
+      "price": 2.185,
+      "source": "eia"
+    },
+    {
+      "date": "2020-12-07",
+      "price": 2.216,
+      "source": "eia"
+    },
+    {
+      "date": "2020-12-14",
+      "price": 2.219,
+      "source": "eia"
+    },
+    {
+      "date": "2020-12-21",
+      "price": 2.269,
+      "source": "eia"
+    },
+    {
+      "date": "2020-12-28",
+      "price": 2.276,
+      "source": "eia"
+    },
+    {
+      "date": "2021-01-04",
+      "price": 2.296,
+      "source": "eia"
+    },
+    {
+      "date": "2021-01-11",
+      "price": 2.372,
+      "source": "eia"
+    },
+    {
+      "date": "2021-01-18",
+      "price": 2.425,
+      "source": "eia"
+    },
+    {
+      "date": "2021-01-25",
+      "price": 2.45,
+      "source": "eia"
+    },
+    {
+      "date": "2021-02-01",
+      "price": 2.455,
+      "source": "eia"
+    },
+    {
+      "date": "2021-02-08",
+      "price": 2.515,
+      "source": "eia"
+    },
+    {
+      "date": "2021-02-15",
+      "price": 2.548,
+      "source": "eia"
+    },
+    {
+      "date": "2021-02-22",
+      "price": 2.68,
+      "source": "eia"
+    },
+    {
+      "date": "2021-03-01",
+      "price": 2.729,
+      "source": "eia"
+    },
+    {
+      "date": "2021-03-08",
+      "price": 2.78,
+      "source": "eia"
+    },
+    {
+      "date": "2021-03-15",
+      "price": 2.864,
+      "source": "eia"
+    },
+    {
+      "date": "2021-03-22",
+      "price": 2.883,
+      "source": "eia"
+    },
+    {
+      "date": "2021-03-29",
+      "price": 2.855,
+      "source": "eia"
+    },
+    {
+      "date": "2021-04-05",
+      "price": 2.842,
+      "source": "eia"
+    },
+    {
+      "date": "2021-04-12",
+      "price": 2.831,
+      "source": "eia"
+    },
+    {
+      "date": "2021-04-19",
+      "price": 2.828,
+      "source": "eia"
+    },
+    {
+      "date": "2021-04-26",
+      "price": 2.837,
+      "source": "eia"
+    },
+    {
+      "date": "2021-05-03",
+      "price": 2.855,
+      "source": "eia"
+    },
+    {
+      "date": "2021-05-10",
+      "price": 2.941,
+      "source": "eia"
+    },
+    {
+      "date": "2021-05-17",
+      "price": 3.016,
+      "source": "eia"
+    },
+    {
+      "date": "2021-05-24",
+      "price": 3.013,
+      "source": "eia"
+    },
+    {
+      "date": "2021-05-31",
+      "price": 3.007,
+      "source": "eia"
+    },
+    {
+      "date": "2021-06-07",
+      "price": 3.01,
+      "source": "eia"
+    },
+    {
+      "date": "2021-06-14",
+      "price": 3.043,
+      "source": "eia"
+    },
+    {
+      "date": "2021-06-21",
+      "price": 3.04,
+      "source": "eia"
+    },
+    {
+      "date": "2021-06-28",
+      "price": 3.057,
+      "source": "eia"
+    },
+    {
+      "date": "2021-07-05",
+      "price": 3.087,
+      "source": "eia"
+    },
+    {
+      "date": "2021-07-12",
+      "price": 3.091,
+      "source": "eia"
+    },
+    {
+      "date": "2021-07-19",
+      "price": 3.103,
+      "source": "eia"
+    },
+    {
+      "date": "2021-07-26",
+      "price": 3.09,
+      "source": "eia"
+    },
+    {
+      "date": "2021-08-02",
+      "price": 3.107,
+      "source": "eia"
+    },
+    {
+      "date": "2021-08-09",
+      "price": 3.121,
+      "source": "eia"
+    },
+    {
+      "date": "2021-08-16",
+      "price": 3.12,
+      "source": "eia"
+    },
+    {
+      "date": "2021-08-23",
+      "price": 3.105,
+      "source": "eia"
+    },
+    {
+      "date": "2021-08-30",
+      "price": 3.101,
+      "source": "eia"
+    },
+    {
+      "date": "2021-09-06",
+      "price": 3.146,
+      "source": "eia"
+    },
+    {
+      "date": "2021-09-13",
+      "price": 3.136,
+      "source": "eia"
+    },
+    {
+      "date": "2021-09-20",
+      "price": 3.167,
+      "source": "eia"
+    },
+    {
+      "date": "2021-09-27",
+      "price": 3.158,
+      "source": "eia"
+    },
+    {
+      "date": "2021-10-04",
+      "price": 3.163,
+      "source": "eia"
+    },
+    {
+      "date": "2021-10-11",
+      "price": 3.262,
+      "source": "eia"
+    },
+    {
+      "date": "2021-10-18",
+      "price": 3.322,
+      "source": "eia"
+    },
+    {
+      "date": "2021-10-25",
+      "price": 3.418,
+      "source": "eia"
+    },
+    {
+      "date": "2021-11-01",
+      "price": 3.424,
+      "source": "eia"
+    },
+    {
+      "date": "2021-11-08",
+      "price": 3.421,
+      "source": "eia"
+    },
+    {
+      "date": "2021-11-15",
+      "price": 3.417,
+      "source": "eia"
+    },
+    {
+      "date": "2021-11-22",
+      "price": 3.429,
+      "source": "eia"
+    },
+    {
+      "date": "2021-11-29",
+      "price": 3.421,
+      "source": "eia"
+    },
+    {
+      "date": "2021-12-06",
+      "price": 3.38,
+      "source": "eia"
+    },
+    {
+      "date": "2021-12-13",
+      "price": 3.359,
+      "source": "eia"
+    },
+    {
+      "date": "2021-12-20",
+      "price": 3.34,
+      "source": "eia"
+    },
+    {
+      "date": "2021-12-27",
+      "price": 3.328,
+      "source": "eia"
+    },
+    {
+      "date": "2022-01-03",
+      "price": 3.321,
+      "source": "eia"
+    },
+    {
+      "date": "2022-01-10",
+      "price": 3.308,
+      "source": "eia"
+    },
+    {
+      "date": "2022-01-17",
+      "price": 3.321,
+      "source": "eia"
+    },
+    {
+      "date": "2022-01-24",
+      "price": 3.332,
+      "source": "eia"
+    },
+    {
+      "date": "2022-01-31",
+      "price": 3.395,
+      "source": "eia"
+    },
+    {
+      "date": "2022-02-07",
+      "price": 3.472,
+      "source": "eia"
+    },
+    {
+      "date": "2022-02-14",
+      "price": 3.534,
+      "source": "eia"
+    },
+    {
+      "date": "2022-02-21",
+      "price": 3.583,
+      "source": "eia"
+    },
+    {
+      "date": "2022-02-28",
+      "price": 3.643,
+      "source": "eia"
+    },
+    {
+      "date": "2022-03-07",
+      "price": 4.178,
+      "source": "eia"
+    },
+    {
+      "date": "2022-03-14",
+      "price": 4.349,
+      "source": "eia"
+    },
+    {
+      "date": "2022-03-21",
+      "price": 4.211,
+      "source": "eia"
+    },
+    {
+      "date": "2022-03-28",
+      "price": 4.176,
+      "source": "eia"
+    },
+    {
+      "date": "2022-04-04",
+      "price": 4.13,
+      "source": "eia"
+    },
+    {
+      "date": "2022-04-11",
+      "price": 4.051,
+      "source": "eia"
+    },
+    {
+      "date": "2022-04-18",
+      "price": 4.012,
+      "source": "eia"
+    },
+    {
+      "date": "2022-04-25",
+      "price": 4.067,
+      "source": "eia"
+    },
+    {
+      "date": "2022-05-02",
+      "price": 4.175,
+      "source": "eia"
+    },
+    {
+      "date": "2022-05-09",
+      "price": 4.321,
+      "source": "eia"
+    },
+    {
+      "date": "2022-05-16",
+      "price": 4.517,
+      "source": "eia"
+    },
+    {
+      "date": "2022-05-23",
+      "price": 4.616,
+      "source": "eia"
+    },
+    {
+      "date": "2022-05-30",
+      "price": 4.636,
+      "source": "eia"
+    },
+    {
+      "date": "2022-06-06",
+      "price": 4.808,
+      "source": "eia"
+    },
+    {
+      "date": "2022-06-13",
+      "price": 4.938,
+      "source": "eia"
+    },
+    {
+      "date": "2022-06-20",
+      "price": 4.879,
+      "source": "eia"
+    },
+    {
+      "date": "2022-06-27",
+      "price": 4.784,
+      "source": "eia"
+    },
+    {
+      "date": "2022-07-04",
+      "price": 4.688,
+      "source": "eia"
+    },
+    {
+      "date": "2022-07-11",
+      "price": 4.569,
+      "source": "eia"
+    },
+    {
+      "date": "2022-07-18",
+      "price": 4.442,
+      "source": "eia"
+    },
+    {
+      "date": "2022-07-25",
+      "price": 4.303,
+      "source": "eia"
+    },
+    {
+      "date": "2022-08-01",
+      "price": 4.192,
+      "source": "eia"
+    },
+    {
+      "date": "2022-08-08",
+      "price": 4.066,
+      "source": "eia"
+    },
+    {
+      "date": "2022-08-15",
+      "price": 3.954,
+      "source": "eia"
+    },
+    {
+      "date": "2022-08-22",
+      "price": 3.866,
+      "source": "eia"
+    },
+    {
+      "date": "2022-08-29",
+      "price": 3.818,
+      "source": "eia"
+    },
+    {
+      "date": "2022-09-05",
+      "price": 3.71,
+      "source": "eia"
+    },
+    {
+      "date": "2022-09-12",
+      "price": 3.623,
+      "source": "eia"
+    },
+    {
+      "date": "2022-09-19",
+      "price": 3.554,
+      "source": "eia"
+    },
+    {
+      "date": "2022-09-26",
+      "price": 3.505,
+      "source": "eia"
+    },
+    {
+      "date": "2022-10-03",
+      "price": 3.433,
+      "source": "eia"
+    },
+    {
+      "date": "2022-10-10",
+      "price": 3.573,
+      "source": "eia"
+    },
+    {
+      "date": "2022-10-17",
+      "price": 3.619,
+      "source": "eia"
+    },
+    {
+      "date": "2022-10-24",
+      "price": 3.576,
+      "source": "eia"
+    },
+    {
+      "date": "2022-10-31",
+      "price": 3.618,
+      "source": "eia"
+    },
+    {
+      "date": "2022-11-07",
+      "price": 3.687,
+      "source": "eia"
+    },
+    {
+      "date": "2022-11-14",
+      "price": 3.708,
+      "source": "eia"
+    },
+    {
+      "date": "2022-11-21",
+      "price": 3.637,
+      "source": "eia"
+    },
+    {
+      "date": "2022-11-28",
+      "price": 3.569,
+      "source": "eia"
+    },
+    {
+      "date": "2022-12-05",
+      "price": 3.455,
+      "source": "eia"
+    },
+    {
+      "date": "2022-12-12",
+      "price": 3.326,
+      "source": "eia"
+    },
+    {
+      "date": "2022-12-19",
+      "price": 3.22,
+      "source": "eia"
+    },
+    {
+      "date": "2022-12-26",
+      "price": 3.173,
+      "source": "eia"
+    },
+    {
+      "date": "2023-01-02",
+      "price": 3.31,
+      "source": "eia"
+    },
+    {
+      "date": "2023-01-09",
+      "price": 3.318,
+      "source": "eia"
+    },
+    {
+      "date": "2023-01-16",
+      "price": 3.36,
+      "source": "eia"
+    },
+    {
+      "date": "2023-01-23",
+      "price": 3.483,
+      "source": "eia"
+    },
+    {
+      "date": "2023-01-30",
+      "price": 3.563,
+      "source": "eia"
+    },
+    {
+      "date": "2023-02-06",
+      "price": 3.505,
+      "source": "eia"
+    },
+    {
+      "date": "2023-02-13",
+      "price": 3.44,
+      "source": "eia"
+    },
+    {
+      "date": "2023-02-20",
+      "price": 3.392,
+      "source": "eia"
+    },
+    {
+      "date": "2023-02-27",
+      "price": 3.344,
+      "source": "eia"
+    },
+    {
+      "date": "2023-03-06",
+      "price": 3.343,
+      "source": "eia"
+    },
+    {
+      "date": "2023-03-13",
+      "price": 3.413,
+      "source": "eia"
+    },
+    {
+      "date": "2023-03-20",
+      "price": 3.405,
+      "source": "eia"
+    },
+    {
+      "date": "2023-03-27",
+      "price": 3.396,
+      "source": "eia"
+    },
+    {
+      "date": "2023-04-03",
+      "price": 3.455,
+      "source": "eia"
+    },
+    {
+      "date": "2023-04-10",
+      "price": 3.558,
+      "source": "eia"
+    },
+    {
+      "date": "2023-04-17",
+      "price": 3.609,
+      "source": "eia"
+    },
+    {
+      "date": "2023-04-24",
+      "price": 3.642,
+      "source": "eia"
+    },
+    {
+      "date": "2023-05-01",
+      "price": 3.592,
+      "source": "eia"
+    },
+    {
+      "date": "2023-05-08",
+      "price": 3.528,
+      "source": "eia"
+    },
+    {
+      "date": "2023-05-15",
+      "price": 3.499,
+      "source": "eia"
+    },
+    {
+      "date": "2023-05-22",
+      "price": 3.483,
+      "source": "eia"
+    },
+    {
+      "date": "2023-05-29",
+      "price": 3.529,
+      "source": "eia"
+    },
+    {
+      "date": "2023-06-05",
+      "price": 3.512,
+      "source": "eia"
+    },
+    {
+      "date": "2023-06-12",
+      "price": 3.531,
+      "source": "eia"
+    },
+    {
+      "date": "2023-06-19",
+      "price": 3.518,
+      "source": "eia"
+    },
+    {
+      "date": "2023-06-26",
+      "price": 3.506,
+      "source": "eia"
+    },
+    {
+      "date": "2023-07-03",
+      "price": 3.475,
+      "source": "eia"
+    },
+    {
+      "date": "2023-07-10",
+      "price": 3.531,
+      "source": "eia"
+    },
+    {
+      "date": "2023-07-17",
+      "price": 3.525,
+      "source": "eia"
+    },
+    {
+      "date": "2023-07-24",
+      "price": 3.59,
+      "source": "eia"
+    },
+    {
+      "date": "2023-07-31",
+      "price": 3.746,
+      "source": "eia"
+    },
+    {
+      "date": "2023-08-07",
+      "price": 3.836,
+      "source": "eia"
+    },
+    {
+      "date": "2023-08-14",
+      "price": 3.812,
+      "source": "eia"
+    },
+    {
+      "date": "2023-08-21",
+      "price": 3.829,
+      "source": "eia"
+    },
+    {
+      "date": "2023-08-28",
+      "price": 3.779,
+      "source": "eia"
+    },
+    {
+      "date": "2023-09-04",
+      "price": 3.758,
+      "source": "eia"
+    },
+    {
+      "date": "2023-09-11",
+      "price": 3.736,
+      "source": "eia"
+    },
+    {
+      "date": "2023-09-18",
+      "price": 3.757,
+      "source": "eia"
+    },
+    {
+      "date": "2023-09-25",
+      "price": 3.702,
+      "source": "eia"
+    },
+    {
+      "date": "2023-10-02",
+      "price": 3.644,
+      "source": "eia"
+    },
+    {
+      "date": "2023-10-09",
+      "price": 3.583,
+      "source": "eia"
+    },
+    {
+      "date": "2023-10-16",
+      "price": 3.505,
+      "source": "eia"
+    },
+    {
+      "date": "2023-10-23",
+      "price": 3.457,
+      "source": "eia"
+    },
+    {
+      "date": "2023-10-30",
+      "price": 3.436,
+      "source": "eia"
+    },
+    {
+      "date": "2023-11-06",
+      "price": 3.36,
+      "source": "eia"
+    },
+    {
+      "date": "2023-11-13",
+      "price": 3.319,
+      "source": "eia"
+    },
+    {
+      "date": "2023-11-20",
+      "price": 3.276,
+      "source": "eia"
+    },
+    {
+      "date": "2023-11-27",
+      "price": 3.267,
+      "source": "eia"
+    },
+    {
+      "date": "2023-12-04",
+      "price": 3.316,
+      "source": "eia"
+    },
+    {
+      "date": "2023-12-11",
+      "price": 3.234,
+      "source": "eia"
+    },
+    {
+      "date": "2023-12-18",
+      "price": 3.162,
+      "source": "eia"
+    },
+    {
+      "date": "2023-12-25",
+      "price": 3.227,
+      "source": "eia"
+    },
+    {
+      "date": "2024-01-01",
+      "price": 3.197,
+      "source": "eia"
+    },
+    {
+      "date": "2024-01-08",
+      "price": 3.186,
+      "source": "eia"
+    },
+    {
+      "date": "2024-01-15",
+      "price": 3.149,
+      "source": "eia"
+    },
+    {
+      "date": "2024-01-22",
+      "price": 3.133,
+      "source": "eia"
+    },
+    {
+      "date": "2024-01-29",
+      "price": 3.192,
+      "source": "eia"
+    },
+    {
+      "date": "2024-02-05",
+      "price": 3.226,
+      "source": "eia"
+    },
+    {
+      "date": "2024-02-12",
+      "price": 3.26,
+      "source": "eia"
+    },
+    {
+      "date": "2024-02-19",
+      "price": 3.336,
+      "source": "eia"
+    },
+    {
+      "date": "2024-02-26",
+      "price": 3.311,
+      "source": "eia"
+    },
+    {
+      "date": "2024-03-04",
+      "price": 3.346,
+      "source": "eia"
+    },
+    {
+      "date": "2024-03-11",
+      "price": 3.37,
+      "source": "eia"
+    },
+    {
+      "date": "2024-03-18",
+      "price": 3.452,
+      "source": "eia"
+    },
+    {
+      "date": "2024-03-25",
+      "price": 3.492,
+      "source": "eia"
+    },
+    {
+      "date": "2024-04-01",
+      "price": 3.485,
+      "source": "eia"
+    },
+    {
+      "date": "2024-04-08",
+      "price": 3.495,
+      "source": "eia"
+    },
+    {
+      "date": "2024-04-15",
+      "price": 3.555,
+      "source": "eia"
+    },
+    {
+      "date": "2024-04-22",
+      "price": 3.644,
+      "source": "eia"
+    },
+    {
+      "date": "2024-04-29",
+      "price": 3.646,
+      "source": "eia"
+    },
+    {
+      "date": "2024-05-06",
+      "price": 3.654,
+      "source": "eia"
+    },
+    {
+      "date": "2024-05-13",
+      "price": 3.597,
+      "source": "eia"
+    },
+    {
+      "date": "2024-05-20",
+      "price": 3.581,
+      "source": "eia"
+    },
+    {
+      "date": "2024-05-27",
+      "price": 3.592,
+      "source": "eia"
+    },
+    {
+      "date": "2024-06-03",
+      "price": 3.551,
+      "source": "eia"
+    },
+    {
+      "date": "2024-06-10",
+      "price": 3.48,
+      "source": "eia"
+    },
+    {
+      "date": "2024-06-17",
+      "price": 3.468,
+      "source": "eia"
+    },
+    {
+      "date": "2024-06-24",
+      "price": 3.473,
+      "source": "eia"
+    },
+    {
+      "date": "2024-07-01",
+      "price": 3.497,
+      "source": "eia"
+    },
+    {
+      "date": "2024-07-08",
+      "price": 3.558,
+      "source": "eia"
+    },
+    {
+      "date": "2024-07-15",
+      "price": 3.573,
+      "source": "eia"
+    },
+    {
+      "date": "2024-07-22",
+      "price": 3.518,
+      "source": "eia"
+    },
+    {
+      "date": "2024-07-29",
+      "price": 3.504,
+      "source": "eia"
+    },
+    {
+      "date": "2024-08-05",
+      "price": 3.484,
+      "source": "eia"
+    },
+    {
+      "date": "2024-08-12",
+      "price": 3.436,
+      "source": "eia"
+    },
+    {
+      "date": "2024-08-19",
+      "price": 3.41,
+      "source": "eia"
+    },
+    {
+      "date": "2024-08-26",
+      "price": 3.365,
+      "source": "eia"
+    },
+    {
+      "date": "2024-09-02",
+      "price": 3.345,
+      "source": "eia"
+    },
+    {
+      "date": "2024-09-09",
+      "price": 3.262,
+      "source": "eia"
+    },
+    {
+      "date": "2024-09-16",
+      "price": 3.198,
+      "source": "eia"
+    },
+    {
+      "date": "2024-09-23",
+      "price": 3.165,
+      "source": "eia"
+    },
+    {
+      "date": "2024-09-30",
+      "price": 3.172,
+      "source": "eia"
+    },
+    {
+      "date": "2024-10-07",
+      "price": 3.121,
+      "source": "eia"
+    },
+    {
+      "date": "2024-10-14",
+      "price": 3.154,
+      "source": "eia"
+    },
+    {
+      "date": "2024-10-21",
+      "price": 3.165,
+      "source": "eia"
+    },
+    {
+      "date": "2024-10-28",
+      "price": 3.156,
+      "source": "eia"
+    },
+    {
+      "date": "2024-11-04",
+      "price": 3.102,
+      "source": "eia"
+    },
+    {
+      "date": "2024-11-11",
+      "price": 3.114,
+      "source": "eia"
+    },
+    {
+      "date": "2024-11-18",
+      "price": 3.113,
+      "source": "eia"
+    },
+    {
+      "date": "2024-11-25",
+      "price": 3.122,
+      "source": "eia"
+    },
+    {
+      "date": "2024-12-02",
+      "price": 3.101,
+      "source": "eia"
+    },
+    {
+      "date": "2024-12-09",
+      "price": 3.11,
+      "source": "eia"
+    },
+    {
+      "date": "2024-12-16",
+      "price": 3.102,
+      "source": "eia"
+    },
+    {
+      "date": "2024-12-23",
+      "price": 3.057,
+      "source": "eia"
+    },
+    {
+      "date": "2024-12-30",
+      "price": 3.068,
+      "source": "eia"
+    },
+    {
+      "date": "2025-01-06",
+      "price": 3.101,
+      "source": "eia"
+    },
+    {
+      "date": "2025-01-13",
+      "price": 3.11,
+      "source": "eia"
+    },
+    {
+      "date": "2025-01-20",
+      "price": 3.179,
+      "source": "eia"
+    },
+    {
+      "date": "2025-01-27",
+      "price": 3.186,
+      "source": "eia"
+    },
+    {
+      "date": "2025-02-03",
+      "price": 3.13,
+      "source": "eia"
+    },
+    {
+      "date": "2025-02-10",
+      "price": 3.161,
+      "source": "eia"
+    },
+    {
+      "date": "2025-02-17",
+      "price": 3.135,
+      "source": "eia"
+    },
+    {
+      "date": "2025-02-24",
+      "price": 3.124,
+      "source": "eia"
+    },
+    {
+      "date": "2025-03-03",
+      "price": 3.089,
+      "source": "eia"
+    },
+    {
+      "date": "2025-03-10",
+      "price": 3.058,
+      "source": "eia"
+    },
+    {
+      "date": "2025-03-17",
+      "price": 3.061,
+      "source": "eia"
+    },
+    {
+      "date": "2025-03-24",
+      "price": 3.076,
+      "source": "eia"
+    },
+    {
+      "date": "2025-03-31",
+      "price": 3.104,
+      "source": "eia"
+    },
+    {
+      "date": "2025-04-07",
+      "price": 3.19,
+      "source": "eia"
+    },
+    {
+      "date": "2025-04-14",
+      "price": 3.127,
+      "source": "eia"
+    },
+    {
+      "date": "2025-04-21",
+      "price": 3.096,
+      "source": "eia"
+    },
+    {
+      "date": "2025-04-28",
+      "price": 3.1,
+      "source": "eia"
+    },
+    {
+      "date": "2025-05-05",
+      "price": 3.11,
+      "source": "eia"
+    },
+    {
+      "date": "2025-05-12",
+      "price": 3.06,
+      "source": "eia"
+    },
+    {
+      "date": "2025-05-19",
+      "price": 3.103,
+      "source": "eia"
+    },
+    {
+      "date": "2025-05-26",
+      "price": 3.108,
+      "source": "eia"
+    },
+    {
+      "date": "2025-06-02",
+      "price": 3.088,
+      "source": "eia"
+    },
+    {
+      "date": "2025-06-09",
+      "price": 3.061,
+      "source": "eia"
+    },
+    {
+      "date": "2025-06-16",
+      "price": 3.096,
+      "source": "eia"
+    },
+    {
+      "date": "2025-06-23",
+      "price": 3.183,
+      "source": "eia"
+    },
+    {
+      "date": "2025-06-30",
+      "price": 3.143,
+      "source": "eia"
+    },
+    {
+      "date": "2025-07-07",
+      "price": 3.132,
+      "source": "eia"
+    },
+    {
+      "date": "2025-07-14",
+      "price": 3.1,
+      "source": "eia"
+    },
+    {
+      "date": "2025-07-21",
+      "price": 3.119,
+      "source": "eia"
+    },
+    {
+      "date": "2025-07-28",
+      "price": 3.112,
+      "source": "eia"
+    },
+    {
+      "date": "2025-08-04",
+      "price": 3.129,
+      "source": "eia"
+    },
+    {
+      "date": "2025-08-11",
+      "price": 3.118,
+      "source": "eia"
+    },
+    {
+      "date": "2025-08-18",
+      "price": 3.11,
+      "source": "eia"
+    },
+    {
+      "date": "2025-08-25",
+      "price": 3.101,
+      "source": "eia"
+    },
+    {
+      "date": "2025-09-01",
+      "price": 3.126,
+      "source": "eia"
+    },
+    {
+      "date": "2025-09-08",
+      "price": 3.175,
+      "source": "eia"
+    },
+    {
+      "date": "2025-09-15",
+      "price": 3.131,
+      "source": "eia"
+    },
+    {
+      "date": "2025-09-22",
+      "price": 3.143,
+      "source": "eia"
+    },
+    {
+      "date": "2025-09-29",
+      "price": 3.097,
+      "source": "eia"
+    },
+    {
+      "date": "2025-10-06",
+      "price": 3.097,
+      "source": "eia"
+    },
+    {
+      "date": "2025-10-13",
+      "price": 3.067,
+      "source": "eia"
+    },
+    {
+      "date": "2025-10-20",
+      "price": 3.018,
+      "source": "eia"
+    },
+    {
+      "date": "2025-10-27",
+      "price": 3.026,
+      "source": "eia"
+    },
+    {
+      "date": "2025-11-03",
+      "price": 3.033,
+      "source": "eia"
+    },
+    {
+      "date": "2025-11-10",
+      "price": 3.027,
+      "source": "eia"
+    },
+    {
+      "date": "2025-11-17",
+      "price": 3.068,
+      "source": "eia"
+    },
+    {
+      "date": "2025-11-24",
+      "price": 3.1,
+      "source": "eia"
+    },
+    {
+      "date": "2025-12-01",
+      "price": 3.048,
+      "source": "eia"
+    },
+    {
+      "date": "2025-12-08",
+      "price": 3.009,
+      "source": "eia"
+    },
+    {
+      "date": "2025-12-15",
+      "price": 2.96,
+      "source": "eia"
+    },
+    {
+      "date": "2025-12-22",
+      "price": 2.938,
+      "source": "eia"
+    },
+    {
+      "date": "2025-12-29",
+      "price": 2.9,
+      "source": "eia"
+    },
+    {
+      "date": "2026-01-05",
+      "price": 2.895,
+      "source": "eia"
+    },
+    {
+      "date": "2026-01-12",
+      "price": 2.859,
+      "source": "eia"
+    },
+    {
+      "date": "2026-01-19",
+      "price": 2.881,
+      "source": "eia"
+    },
+    {
+      "date": "2026-01-26",
+      "price": 2.918,
+      "source": "eia"
+    },
+    {
+      "date": "2026-02-02",
+      "price": 2.937,
+      "source": "eia"
+    },
+    {
+      "date": "2026-02-09",
+      "price": 2.937,
+      "source": "eia"
+    },
+    {
+      "date": "2026-02-16",
+      "price": 2.95,
+      "source": "eia"
+    },
+    {
+      "date": "2026-02-23",
+      "price": 2.952,
+      "source": "eia"
+    },
+    {
+      "date": "2026-03-02",
+      "price": 3.0,
+      "source": "eia"
+    }
+  ]
+}

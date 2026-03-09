@@ -1,0 +1,2 @@
+# fetch-eia.py and fetch-aaa.py use only stdlib (urllib, json, re)
+# No external dependencies required
