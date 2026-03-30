@@ -11,9 +11,14 @@ import re
 import sys
 from datetime import datetime, timezone
 from pathlib import Path
-import urllib.request
 
-AAA_URL = "https://gasprices.aaa.com/state-gas-price-averages/"
+try:
+    from playwright.sync_api import sync_playwright
+except ImportError:
+    print("ERROR: playwright not installed. Run: pip install playwright && playwright install chromium")
+    sys.exit(1)
+
+AAA_URL = "https://gasprices.aaa.com/todays-state-averages/"
 DATA_DIR = Path(__file__).parent.parent / "data"
 MIN_STATES = 50
 PRICE_MIN = 1.50
@@ -58,20 +63,24 @@ STATE_NAMES = {v: k for k, v in STATE_ABBREV.items()}
 
 
 def scrape_aaa():
-    """Scrape AAA state gas price averages page. Returns dict of state_abbrev -> price."""
-    req = urllib.request.Request(AAA_URL, headers={
-        "User-Agent": "Mozilla/5.0 (Gas Price Tracker; educational/research)"
-    })
-    with urllib.request.urlopen(req, timeout=30) as resp:
-        html = resp.read().decode("utf-8")
-
+    """Scrape AAA state gas price averages using headless browser (bypasses Cloudflare)."""
     prices = {}
 
-    # Parse the HTML table - AAA uses a simple table with state names and prices
-    # Look for table rows with state names and dollar amounts
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        page = browser.new_page()
+        page.goto(AAA_URL, wait_until="networkidle", timeout=60000)
+
+        # Wait for the price table to render
+        page.wait_for_selector("table", timeout=30000)
+        html = page.content()
+        browser.close()
+
+    # Parse the HTML table - state name in first <td>, regular price in second <td>
     row_pattern = re.compile(
-        r'<tr[^>]*>\s*<td[^>]*>\s*(?:<a[^>]*>)?\s*([A-Za-z\s.]+?)\s*(?:</a>)?\s*</td>'
-        r'\s*<td[^>]*>\s*\$?([\d.]+)\s*</td>',
+        r'<tr[^>]*>\s*'
+        r'<td[^>]*>\s*(?:<a[^>]*>)?\s*([A-Za-z\s.]+?)\s*(?:</a>)?\s*</td>'
+        r'(?:\s*<td[^>]*>\s*\$?([\d.]+)\s*</td>)',
         re.DOTALL
     )
 
